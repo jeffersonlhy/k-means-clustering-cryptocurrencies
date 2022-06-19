@@ -1,0 +1,1794 @@
+id,symbol,name,hashing_algorithm,categories,description_en,links_homepage,market_cap_rank,coingecko_rank,public_interest_score,price_change_percentage_30d,total_supply,circulating_supply
+
+bitcoin,btc,Bitcoin,SHA-256,['Cryptocurrency'],"Bitcoin is the first successful internet money based on peer-to-peer technology; whereby no central bank or authority is involved in the transaction and production of the Bitcoin currency. It was created by an anonymous individual/group under the name, Satoshi Nakamoto. The source code is available publicly as an open source project, anybody can look at it and be part of the developmental process.
+
+
+
+Bitcoin is changing the way we see money as we speak. The idea was to produce a means of exchange, independent of any central authority, that could be transferred electronically in a secure, verifiable and immutable way. It is a decentralized peer-to-peer internet currency making mobile payment easy, very low transaction fees, protects your identity, and it works anywhere all the time with no central authority and banks.
+
+
+
+Bitcoin is designed to have only 21 million BTC ever created, thus making it a deflationary currency. Bitcoin uses the <a href=""https://www.coingecko.com/en?hashing_algorithm=SHA-256"">SHA-256</a> hashing algorithm with an average transaction confirmation time of 10 minutes. Miners today are mining Bitcoin using ASIC chip dedicated to only mining Bitcoin, and the hash rate has shot up to peta hashes.
+
+
+
+Being the first successful online cryptography currency, Bitcoin has inspired other alternative currencies such as <a href=""https://www.coingecko.com/en/coins/litecoin"">Litecoin</a>, <a href=""https://www.coingecko.com/en/coins/peercoin"">Peercoin</a>, <a href=""https://www.coingecko.com/en/coins/primecoin"">Primecoin</a>, and so on.
+
+
+
+The cryptocurrency then took off with the innovation of the turing-complete smart contract by <a href=""https://www.coingecko.com/en/coins/ethereum"">Ethereum</a> which led to the development of other amazing projects such as <a href=""https://www.coingecko.com/en/coins/eos"">EOS</a>, <a href=""https://www.coingecko.com/en/coins/tron"">Tron</a>, and even crypto-collectibles such as <a href=""https://www.coingecko.com/buzz/ethereum-still-king-dapps-cryptokitties-need-1-billion-on-eos"">CryptoKitties</a>.",http://www.bitcoin.org,1,1,0.341,-2.57667,21000000.0,18956118.0
+
+ethereum,eth,Ethereum,Ethash,['Smart Contract Platform'],"Ethereum is a <a href=""https://www.coingecko.com/en?category_id=29&view=market"">smart contract platform</a> that enables developers to build tokens and decentralized applications (dapps). ETH is the native currency for the Ethereum platform and also works as the transaction fees to miners on the Ethereum network.
+
+
+
+Ethereum is the pioneer for blockchain based smart contracts. Smart contract is essentially a computer code that runs exactly as programmed without any possibility of downtime, censorship, fraud or third-party interference. It can facilitate the exchange of money, content, property, shares, or anything of value. When running on the blockchain a smart contract becomes like a self-operating computer program that automatically executes when specific conditions are met.
+
+
+
+Ethereum allows programmers to run complete-turing smart contracts that is capable of any customizations. Rather than giving a set of limited operations, Ethereum allows developers to have complete control over customization of their smart contract, giving developers the power to build unique and innovative applications.
+
+
+
+Ethereum being the first blockchain based smart contract platform, they have gained much popularity, resulting in new competitors fighting for market share. The competitors includes: <a href=""https://www.coingecko.com/en/coins/ethereum_classic"">Ethereum Classic</a> which is the oldchain of Ethereum, <a href=""https://www.coingecko.com/en/coins/qtum"">Qtum</a>, <a href=""https://www.coingecko.com/en/coins/eos"">EOS</a>, <a href=""https://www.coingecko.com/en/coins/neo"">Neo</a>, <a href=""https://www.coingecko.com/en/coins/icon"">Icon</a>, <a href=""https://www.coingecko.com/en/coins/tron"">Tron</a> and <a href=""https://www.coingecko.com/en/coins/cardano"">Cardano</a>.
+
+
+
+Ethereum wallets are fairly simple to set up with multiple popular choices such as myetherwallet, <a href=""https://www.coingecko.com/buzz/complete-beginners-guide-to-metamask?locale=en"">metamask</a>, and <a href=""https://www.coingecko.com/buzz/trezor-model-t-wallet-review"">Trezor</a>. Read here for more guide on using ethereum wallet: <a href=""https://www.coingecko.com/buzz/how-to-use-an-ethereum-wallet"">How to Use an Ethereum Wallet</a>",https://www.ethereum.org/,2,2,0.701,-12.18188,,119553622.5615
+
+solana,sol,Solana,,"['Solana Ecosystem', 'Smart Contract Platform']",,https://solana.com/,8,3,0.689,-35.51438,508180963.57,317763640.286165
+
+binancecoin,bnb,Binance Coin,,"[None, 'Smart Contract Platform', 'Polygon Ecosystem', 'Avalanche Ecosystem', 'Binance Smart Chain Ecosystem', 'Centralized Exchange Token (CEX)', 'Exchange-based Tokens']","Binance Coin is the cryptocurrency of the <a href=""https://www.coingecko.com/en/exchanges/binance"">Binance</a> platform. It is a trading platform exclusively for cryptocurrencies. The name ""Binance"" is a combination of binary and finance.
+
+
+
+Thus, the startup name shows that only cryptocurrencies can be traded against each other. It is not possible to trade crypto currencies against Fiat. The platform achieved an enormous success within a very short time and is focused on worldwide market with Malta headquarters. The cryptocurrency currently has a daily trading volume of 1.5 billion - 2 billion US dollars and is still increasing.
+
+
+
+In total, there will only be 200 million BNBs. Binance uses the <a href=""https://www.coingecko.com/en/coins/all?asset_platform_id=279"">ERC20 token standard</a> from <a href=""https://www.coingecko.com/en/coins/ethereum"">Ethereum</a> and has distributed it as follow: 50% sold on ICO, 40% to the team and 10% to Angel investors. The coin can be used to pay fees on Binance. These include trading fees, transaction fees, listing fees and others. Binance gives you a huge discount when fees are paid in BNB. 
+
+
+
+The schedule of BNB fees discount is as follow: In the first year, 50% discount on all fees, second year 25% discount, third year 12.5% discount, fourth year 6.75 % discount, and from the fifth year onwards there is no discount. This structure is used to incentivize users to buy BNB and do trades within Binance.
+
+
+
+Binance announced in a buyback plan that it would buy back up to 100 million BNB in Q1 2018. The coins are then burned. This means that they are devaluated to increase the value of the remaining coins. This benefits investors. In the future, the cryptocurrency will remain an asset on the trading platform and will be used as gas.
+
+
+
+Other tokens that are issued by exchanges include <a href=""https://www.coingecko.com/en/coins/bibox-token"">Bibox Token</a>, <a href=""https://www.coingecko.com/en/coins/okb"">OKB</a>, <a href=""https://www.coingecko.com/en/coins/huobi-token"">Huobi Token</a>, and more.",https://www.binance.com/,4,4,20.192,-16.82221,168137035.9,168137035.9
+
+ripple,xrp,XRP,,['Cryptocurrency'],"Ripple is the catchall name for the cryptocurrency platform, the transactional protocol for which is actually XRP, in the same fashion as <a href=""https://www.coingecko.com/en/coins/ethereum"">Ethereum</a> is the name for the platform that facilitates trades in Ether. Like other cryptocurrencies, Ripple is built atop the idea of a distributed ledger network which requires various parties to participate in validating transactions, rather than any singular centralized authority. That facilitates transactions all over the world, and transfer fees are far cheaper than the likes of bitcoin. Unlike other cryptocurrencies, XRP transfers are effectively immediate, requiring no typical confirmation time.
+
+
+
+Ripple was originally founded by a single company, <a href=""https://www.crunchbase.com/organization/ripple-labs"">Ripple Labs</a>, and continues to be backed by it, rather than the larger network of developers that continue <a href=""https://www.coingecko.com/en/coins/bitcoin"">bitcoin’s</a> development. It also doesn’t have a fluctuating amount of its currency in existence. Where bitcoin has a continually growing pool with an eventual maximum, and Ethereum theoretically has no limit, Ripple was created with all of its 100 billion XRP tokens right out of the gate. That number is maintained with no mining and most of the tokens are owned and held by Ripple Labs itself — around 60 billion at the latest count.
+
+
+
+Even at the recently reduced value of around half a dollar per XRP, that means Ripple Labs is currently sitting on around $20 billion worth of the cryptocurrency (note: Ripple’s price crashed hard recently, and may be worth far less than $60 billion by time you read this). It holds 55 billion XRP in an escrow account, which allows it to sell up to a billion per month if it so chooses in order to fund new projects and acquisitions. Selling such an amount would likely have a drastic effect on the cryptocurrency’s value, and isn’t something Ripple Labs plans to do anytime soon.
+
+
+
+In actuality, Ripple Labs is looking to leverage the technology behind XRP to allow for faster banking transactions around the world. While Bitcoin and other cryptocurrencies are built on the idea of separating financial transactions from the financial organizations of traditional currencies, Ripple is almost the opposite in every sense.
+
+
+
+XRP by Ripple price can be found on this page alongside the market capitalization and additional stats.
+
+
+
+",https://ripple.com/currency/,6,5,0.115,4.31259,100000000000.0,47832461678.0
+
+dogecoin,doge,Dogecoin,Scrypt,"['Meme Tokens', 'Cryptocurrency', 'Binance Smart Chain Ecosystem']","Dogecoin is a cryptocurrency based on the popular ""Doge"" Internet meme and features a Shiba Inu on its logo. Dogecoin is a <a href=""/coins/litecoin"">Litecoin</a> fork. Introduced as a ""joke currency"" on 6 December 2013, Dogecoin quickly developed its own online community and reached a capitalization of US$60 million in January 2014. Compared with other cryptocurrencies, Dogecoin had a fast initial coin production schedule: 100 billion coins were in circulation by mid-2015, with an additional 5.256 billion coins every year thereafter. As of 30 June 2015, the 100 billionth Dogecoin had been mined. 
+
+
+
+Dogecoin was created by Billy Markus from Portland, Oregon and  Jackson Palmer from Sydney, Australia. Both wanted to create a fun cryptocurrency that will appeal beyond the core Bitcoin audience. Dogecoin is primarily used as a tipping system on Reddit and Twitter where users tip each other for creating or sharing good content. The community is very active in organising fundraising activities for deserving causes.
+
+
+
+The developers of Dogecoin haven’t made any major changes to the coin since 2015. This means that Dogecoin could get left behind and is why Shibas are leaving Dogecoin to join more advanced platforms like Ethereum. One of Dogecoin strengths is its relaxed and fun-loving community. However, this is also a weakness because other currencies are way more professional.
+
+
+
+To purchase Dogecoin, it involves downloading a crypto wallet, setting up a crypto exchange account and then trading away for your desired crypto currency. Once we have set up an account with a DOGE currency exchange and deposited some funds, you are ready to start trading. ",http://dogecoin.com/,12,6,0.062,-10.2422,,132670764299.894
+
+polkadot,dot,Polkadot,,"['Polkadot Ecosystem', 'Smart Contract Platform']","Polkadot is a platform that allows diverse blockchains to transfer messages, including value, in a trust-free fashion; sharing their unique features while pooling their security. In brief, Polkadot is a scalable heterogeneous multi-chain technology.
+
+
+
+Polkadot is heterogeneous because it is entirely flexible and makes no assumption about the nature or structure of the chains in the network. Even non-blockchain systems or data structures can become parachains if they fulfill a set of criteria.
+
+
+
+Polkadot may be considered equivalent to a set of independent chains (e.g. a set containing Ethereum, Ethereum Classic, Namecoin and Bitcoin) except with important additions: pooled security and trust-free interchain transactability.
+
+
+
+Many of the native parachains of Polkadot will be written using a Polkadot Runtime Environment SDK (e.g. Parity Technologies' Substrate).",https://polkadot.network/,10,7,0.162,-30.2304,1164659875.84683,1083712976.05374
+
+cardano,ada,Cardano,,"['Smart Contract Platform', None]","Cardano is a decentralised platform that will allow complex programmable transfers of value in a secure and scalable fashion. It is one of the first blockchains to be built in the highly secure Haskell programming language. Cardano is developing a <a href=""https://www.coingecko.com/en?category_id=29"">smart contract platform</a> which seeks to deliver more advanced features than any protocol previously developed. It is the first blockchain platform to evolve out of a scientific philosophy and a research-first driven approach. The development team consists of a large global collective of expert engineers and researchers.
+
+
+
+The Cardano project is different from other blockchain projects as it openly addresses the need for regulatory oversight whilst maintaining consumer privacy and protections through an innovative software architecture. The protocol features a layered blockchain software stack that is flexible, scalable, and is being developed with the most rigorous academic and commercial software standards in the industry. 
+
+
+
+Cardano will use a democratic governance system that allows the project to evolve over time, and fund itself sustainably through a visionary treasury system.
+
+
+
+Technological Innovation
+
+Cardano is the first protocol to incorporate Ouroboros, the ground breaking <a href=""https://www.coingecko.com/en?hashing_algorithm=Proof+of+Stake&view=market"">proof of stake algorithm</a>. The IOHK team employed a “first-principles” approach, driven by peer-reviewed academic research to build Cardano from the ground up.
+
+
+
+The result of this collaborative effort is the first cryptocurrency to be based in Haskell code, which focuses on industrial strength product that delivers the resilience necessary for mission-critical systems, in this case, securing investment.
+
+
+
+Cardano’s multi-layer protocol performs advanced functions, and has a settlement layer that is elegantly linked to a control layer. The settlement layer will have a unit of account, while the control layer will run smart contracts and will be programmed to recognize identity, assisting compliance (and allowing blacklisting, for instance).
+
+
+
+The protocol is geared towards protecting privacy rights of users, while also taking into account the needs of regulators. In doing so, Cardano is the first protocol to balance these requirements in a nuanced and effective way, pioneering a new approach for cryptocurrencies.
+
+
+
+The system is also designed to allow upgrade through soft forks, enabling it to adapt to changing needs and evolve quickly, when required. A treasury system is also being installed that will ensure the sustainability of the protocol.
+
+
+
+Cardano is built in the spirit of collaboration by being completely open source and patent-free. Engineered for efficiency and scalability, the Cardano ecosystem will develop into the most complete cryptocurrency ever constructed.
+
+
+
+Conceptual Innovation
+
+
+
+i. Privacy and regulation
+
+The original <a href=""https://www.coingecko.com/en/coins/bitcoin"">Bitcoin</a> blockchain was meant to be a way for individuals to transact directly and anonymously with each other outside the control of banks and governments. This guarantees privacy in financial dealings, a fundamental individual right, but full anonymity can be counterproductive. Today most blockchain projects look to further either the aims of privacy or of regulation. To be effective globally, we think our blockchain must ‘square the circle’ by finding the right mix of individual privacy protection and provision for regulatory control.
+
+
+
+ii. Governance
+
+Public, decentralized blockchain projects rely on crowd-based governance models. This allows for democratic control of the network by its participants, which is essential to building truly decentralised economies. However, if they are not carefully designed, such governance can go awry. Both the Bitcoin and <a href=""https://www.coingecko.com/en/coins/ethereum"">Ethereum</a> communities have experienced devastating schisms on the question of how to upgrade their networks – in Ethereum's case already causing a split. The Cardano blockchain has an airtight governance model that allow the community to democratically take clear and binding decisions.
+
+
+
+iii. Funding
+
+The Cardano blockchain has sophisticated maintenance and development needs and is able to adequately fund itself, both in terms of running costs and new investment.
+
+
+
+The Token: ADA Voucher
+
+Every blockchain project has a token of value commonly referred to as a cryptocurrency. Ada is the cryptocurrency on the Cardano blockchain. With Ada, holders can send value between friends, pay for a good or service, deposit funds on an exchange, or enter an application. To perform a transfer on the settlement layer requires you own Ada, or acquire Ada through an exchange. It will also be the native token to be used in applications built on the computation layer.
+
+
+
+The Wallet: <a href=""https://daedaluswallet.io/"">Daedalus</a>
+
+Each cryptocurrency requires a “wallet” to store Ada. Typically this wallet is a software application that can be installed on any computer or smartphone. Daedalus is a highly-engineered wallet with advanced security features that was developed by <a href=""https://iohk.io/"">IOHK</a> specifically for the Cardano blockchain and protects your assets with the most advanced cryptography. In the future, Daedalus will not only support Ada, but other cryptocurrencies such as Bitcoin, <a href=""https://www.coingecko.com/en/coins/ethereum-classic"">Ethereum Classic</a> and many more.
+
+
+
+The <a href=""https://cardanofoundation.org/en/"">Cardano Foundation</a>
+
+The Cardano Foundation’s core mission is to standardise, protect and promote the Cardano Protocol technology. The Cardano Foundation acts as a supervisory and educational body for Cardano. Our mission is to:
+
+
+
+1. Standardise, protect and promote the Cardano Protocol and its applications
+
+2. Be a community hub offering authoritative, timely information about the technology and Cardano’s wide-ranging potential
+
+3. Liaise and influence government and regulatory bodies, form strategic partnerships with businesses, enterprises and other open source projects and aid the creation of formal software standards for Cardano, a crucial feature for its long term success and critical in adoption and government engagement
+
+
+
+Areas of Focus:
+
+1. Cardano Protocol - We function as an objective standards body for the Cardano protocol as it evolves over time.
+
+2. Cardano community - We support, grow and help educate the Cardano blockchain community.
+
+3. Cardano ecosystem - We work to expand and protect the Cardano ecosystem. This includes promoting Cardano as a platform for commercial entities and serving as an objective organization for enterprises interested in joining Cardano.
+
+4. Serving the wider blockchain community - We aim to influence and progress the emerging commercial and legislative landscape for blockchain technology and cryptocurrencies in general. We proactively approach government and regulatory bodies and form strategic partnerships with businesses, enterprises and other open-source projects.
+
+
+
+IOHK
+
+Founded in 2015 by <a href=""https://iohk.io/team/charles-hoskinson/"">Charles Hoskinson</a> and <a href=""https://iohk.io/team/jeremy-wood/"">Jeremy Wood</a>, IOHK is a world-class engineering and technology company committed to using peer-to-peer innovations to provide financial services to three billion people that don’t have them. The group is contracted to design, build, and maintain Cardano through to 2020.
+
+
+
+Emurgo
+
+<a href=""https://emurgo.io/"">Emurgo</a> is the venture building entity in the Cardano ecosystem, its goal is to aid, integrate, and foster Cardano blockchain applications.
+
+
+
+Emurgo captures the transformative power that blockchain technology brings to the developing world. Decentralized applications built on Cardano technology, funded and supported by Emurgo, will have the potential to build groundbreaking applications.
+
+
+
+Project Road Map
+
+IOHK has now released the settlement layer. This means you can transact, trade, and purchase Ada tokens fully independently of the computation layer. The goal for the computation layer is to have a beta released by the first quarter of 2018. Once both settlement and computation layers are live, users will be able to setup a custom environment to build decentralised applications on the Cardano stack.
+
+In 2019, IOHK intends to work on Cardano’s long-term scalability and augment its capabilities. As developers, IOHK has been contracted through 2020 to make sure Cardano is being adequately maintained. The goal is to create a sustainable ecosystem that is capable of funding and supporting itself.",https://www.cardano.org/en/home/,7,8,0.2,-17.80104,45000000000.0,32066390668.4135
+
+chainlink,link,Chainlink,,"['Fantom Ecosystem', 'Arbitrum Ecosystem', 'Avalanche Ecosystem', 'Binance Smart Chain Ecosystem', None, 'xDAI Ecosystem', 'Polygon Ecosystem', 'Near Protocol Ecosystem', 'Solana Ecosystem', 'Infrastructure', 'Polkadot Ecosystem', 'Oracle', 'Decentralized Finance (DeFi)', 'Business Services', 'Smart Contract Platform']","Chainlink is a framework for building Decentralized Oracle Networks (DONs) that bring real-world data onto blockchain networks, enabling the creation of hybrid smart contracts. These DONs provide decentralized services such as Price Feeds, Proof of Reserve, Verifiable Randomness, Keepers, and the ability to connect to any web API. 
+
+
+
+It aims to ensure that the external information (pricing, weather data, event outcomes, etc.) and off-chain computations (randomness, transaction automation, fair ordering, etc.) fed to on-chain smart contracts are reliable and tamper-proof.",https://chain.link/,22,9,0.155,-39.21734,1000000000.0,467009549.5205637
+
+stellar,xlm,Stellar,,"['Cryptocurrency', 'Smart Contract Platform']","The Stellar network is an open source, distributed, and community owned network used to facilitate cross-asset transfers of value. Stellar aims to help facilitate cross-asset transfer of value at a fraction of a penny while aiming to be an open financial system that gives people of all income levels access to low-cost financial services. Stellar can handle exchanges between fiat-based currencies and between cryptocurrencies. Stellar.org, the organization that supports Stellar, is centralized like <a href=""https://www.coingecko.com/en/coins/ripple"">XRP</a> and meant to handle cross platform transactions and micro transactions like XRP. However, unlike Ripple, Stellar.org is non-profit and their platform itself is open source and decentralized. 
+
+
+
+Stellar was founded by Jed McCaleb in 2014. Jed McCaleb is also the founder of Mt. Gox and co-founder of Ripple, launched the network system Stellar with former lawyer Joyce Kim. Stellar is also a payment technology that aims to connect financial institutions and drastically reduce the cost and time required for cross-border transfers. In fact, both payment networks used the same protocol initially.
+
+
+
+Distributed Exchange
+
+Through the use of its intermediary currency Lumens (XLM), a user can send any currency that they own to anyone else in a different currency.
+
+
+
+For instance, if Joe wanted to send USD to Mary using her EUR, an offer is submitted to the distributed exchange selling USD for EUR. This submitted offer forms is known as an order book. The network will use the order book to find the best exchange rate for the transaction in-order to minimize the fee paid by a user.
+
+
+
+This multi-currency transaction is possible because of ""Anchors"". Anchors are trusted entities that hold people’s deposits and can issue credit. In essence, Anchors serves as the bridge between different currencies and the Stellar network.
+
+
+
+Lumens (XLM)
+
+Lumens are the native asset (digital currency) that exist on the Stellar network that helps to facilitate multi-currency transactions and prevent spams. For multi-currency transactions, XLM is the digital intermediary that allows for such a transaction to occur at a low cost.
+
+
+
+In-order to prevent DoS attacks (aka spams) that would inevitably occur on the Stellar network, a small fee of 0.00001 XLM is associated with every transaction that occurs on the network. This fee is small enough so it does not significantly affect the cost of transaction, but large enough so it dissuades bad actors from spamming the network. 
+
+
+
+Prior to Protocol 12, Stellar had a built-in inflation mechanism conceived to allow account holders to collectively direct inflation-generated lumens toward projects built on Stellar.
+
+
+
+As the network evolved and grew, it became increasingly clear that inflation wasn’t working as intended — account holders either didn’t set their inflation destination or joined inflation pools to claim the inflation themselves, and the operational costs associated with inflation payments continued to rise — and so a protocol change to disable inflation was proposed, implemented, voted on by validators, and ultimately adopted as part of a network upgrade.
+
+
+
+The inflation operation is now deprecated.
+
+https://developers.stellar.org/docs/glossary/inflation/
+
+",https://www.stellar.org/,30,10,0.075,-21.95814,50001802211.4346,24900876145.9734
+
+avalanche-2,AVAX,Avalanche,,"['Avalanche Ecosystem', None, 'Smart Contract Platform']","Avalanche is a high throughput smart contract blockchain platform. Validators secure the network through a proof-of-stake consensus protocol. It is said to be fast, low cost, and environmental friendly.
+
+
+
+Mainnet was launched in September 21, 2020. Since then, the platform has grown to secure over 100+ individual projects, $1.4M+ of AVAX burned (reducing supply), 950+ individual block-producing validators, and over 500k+ community members around the globe. Decentralized finance (DeFi) applications can be found on Avalanche such as Pangolin, TraderJoe, and more.",https://www.avax.network/,11,11,0.56,-13.58963,377752194.4695483,245280854.325373
+
+litecoin,ltc,Litecoin,Scrypt,['Cryptocurrency'],"Litecoin is a peer-to-peer cryptocurrency created by Charlie Lee. It was created based on the <a href=""https://www.coingecko.com/en/coins/bitcoin"">Bitcoin</a> protocol but differs in terms of the hashing algorithm used. Litecoin uses the memory intensive <a href=""https://www.coingecko.com/en?hashing_algorithm=Scrypt"">Scrypt proof of work</a> mining algorithm. Scrypt allows consumer-grade hardware such as GPU to mine those coins.
+
+
+
+Why Litecoin?
+
+Litecoin is a cryptocurrency that has evolved from Bitcoin after its own popularity in the industry, this alternative, or ‘altcoin’ has emerged to allow investors to diversify their digital currency package, according to Investopedia. Litecoin is one of the most prominent altcoins and was created by former Google employee and Director of Engineering at <a href=""https://www.coingecko.com/en/exchanges/coinbase_pro"">Coinbase</a>, Charlie Lee. Litecoin was the first to alter Bitcoin and the most significant difference is that it takes 2.5 minutes for Litecoin to generate a block, or transaction, in comparison to Bitcoin's 10 minutes.
+
+
+
+‘While this matters little to traders, miners who use hardware to run Bitcoin's network cannot switch over to Litecoin. This keeps bigger mining conglomerates away from Litecoin because they cannot easily optimize their profits by swapping to another coin, contributing to a more decentralized experience. Litecoin also has bigger blocks, and more coins in circulation, making it more affordable and swift when transacting,’ Investopedia explained.
+
+
+
+As explained above, Litecoin can transact a lot faster than Bitcoin, but there are also a number of other characteristics that investors need to know before trading. Litecoin can handle higher volumes of transactions because of the capability of transacting faster and if Bitcoin attempted to transact on the scale of its altcoin, a code update would be needed. However, Litecoin’s blocks would be larger, but with more ‘orphaned blocks'. The faster block time of litecoin reduces the risk of double spending attacks - this is theoretical in the case of both networks having the same hashing power.
+
+
+
+Litecoin Technical Details:
+
+The transaction confirmation time taken for Litecoin is about 2.5 minutes on average (as compared to Bitcoin's 10 minutes). The Litecoin network is scheduled to cap at 84 million currency units. 
+
+
+
+Litecoin has inspired many other popular alternative currencies (eg. <a href=""https://www.coingecko.com/en/coins/dogecoin"">Dogecoin</a>) because of its Scrypt hashing algorithm in order to prevent ASIC miners from mining those coins. However it is said that by the end of this year, Scrypt ASIC will enter the mass market.",http://litecoin.org,20,12,0.013,-10.59657,84000000.0,69624970.7334713
+
+tron,trx,TRON,Delegated Proof-of-Stake,['Smart Contract Platform'],"What is Tron?
+
+Tron's mission is to build a truly decentralized internet and aims to be the largest blockchain-based operating system in the world, known as the TRON protocol. The TRON protocol will offer high scalability, high availability, and high throughput computing to serve decentralized applications via smart contracts. Ethereum EVM-based smart contracts will be compatible and deployable on the TRON network as such Solidity developers do not have to rewrite their applications.
+
+
+
+Why Tron?
+
+Since TRON protocol does not rely on proof of work or mining, instead governed by nodes located around the world, it is decentralized while providing high throughput for transactions on the blockchain. This is suitable for dapps that require high speed transactions especially games. There are a number of tokens already issued on the TRON network and the <a href=""https://www.coingecko.com/en/exchanges/trx_market"">decentralized exchanges TRX.market</a> has launched.
+
+
+
+On July 24th 2018, TRON acquired BitTorrent, one of the largest P2P file sharing protocol. As a result of the acquisition, <a href=""https://www.coingecko.com/en/coins/bittorrent"">BitTorrent Token (BTT)</a> was launched as the cryptocurrency to power the economics on the BitTorrent network. The Token will be used to inceltivize file sharing and storage within the network.
+
+",https://tron.network,24,13,0.103,-5.82505,101900409184.273,101785018568.569
+
+monero,xmr,Monero,RandomX,['Privacy Coins'],"What is Monero?
+
+Monero (XMR) is the top <a href=""https://www.coingecko.com/en?category_id=37&view=market"">privacy-centric cryptocurrency</a> based on the <a href=""https://www.coingecko.com/en?hashing_algorithm=Cryptonight"">CryptoNote protocol</a>, a secure, private and untraceable currency system. Monero uses a special kind of cryptography to ensure that all of its transactions are  remain 100% unlinkable and untraceable. In an increasingly transparent world, you can see why something like Monero can become so desirable.
+
+
+
+Origins of Monero
+
+In July of 2012, <a href=""https://www.coingecko.com/en/coins/bytecoin"">Bytecoin</a>, the first real life implementation of CryptoNote, was launched. While Bytecoin had promise, people noticed that 80% of the coins were already published. So, it was decided that the bytecoin blockchain will be forked and the new coins in the new chain will be called Bitmonero, which is was then renamed Monero, meaning “coin” in Esperanto language. In this new blockchain, a block will be mined and added every two minutes.
+
+
+
+Why Monero?
+
+
+
+#1: Unlinkability - Your identity is completely private
+
+
+
+You have complete control over your transactions. You are responsible for your money. Because your identity is private no one will be able to see what you are spending your money on. When you send funds to someone’s public address, what happens is that you actually send the funds to a randomly created brand new one-time destination address. 
+
+
+
+This means that the public record does not contain any mention that funds were received to the recipient’s public address. In Monero, your public address will never appear in the public record of transactions. Instead, a 'stealth address' is recorded in a way that only you, the recipient, can recognize the incoming funds.
+
+
+
+#2: Fungibility
+
+
+
+Fungibility is interchangeability between one asset and another asset of the same type.
+
+
+
+Suppose you borrowed $50 from your friend, you can even return the money in the form of 1 $50 bill or 5 $10 bill, It is still fine. This shows that the dollar has fungible properties. However, if you were to borrow someone’s car for the weekend and come back and give them some other car in return, then that person will probably punch on the face. Cars, in this example, are a nonfungible asset.
+
+
+
+What is <a href=""https://www.coingecko.com/en?hashing_algorithm=Cryptonight"">CryptoNote</a>?
+
+CryptoNote is the application layer protocol that fuels various decentralized currencies. While it is similar to the application layer which runs bitcoin in many aspects, there a lot of areas where the two differ from each other. CryptoNote features an entirely new code base and is not a fork of <a href=""https://www.coingecko.com/en/coins/bitcoin"">Bitcoin</a>. More info about CryptoNote can be found at their <a href=""https://cryptonote.org/"" rel=""nofollow"">website</a>. 
+
+
+
+CryptoNote uses Ring Signatures to conceal sender identities via mixing and it also has unlinkable transactions that is achieved using 1-time keys for each individual payments. Ring signatures enable ‘transaction mixing’ to occur. Transaction mixing means that when funds are sent, the sender randomly chooses several other users’ funds to also appear in the transaction as a possible source of the funds being sent. 
+
+
+
+The cryptographical nature of the ring signature means that no one can tell which of the funds were really the source of the transaction – not even the person that gave the funds to the sender in the first place. A system of ‘key images’ associated with each ring signature ensures that although no one can tell the true source of the funds, it can be easily detected if the sender attempts to anonymously send their funds twice. 
+
+",https://getmonero.org,48,14,0.068,-12.84762,,18077810.4523567
+
+algorand,algo,Algorand,,"['Cryptocurrency', 'Smart Contract Platform']","Algorand is a scalable, secure and decentralized digital currency and transactions platform.",https://algorand.foundation/,27,15,0.035,-37.88525,7003952104.98038,6563821967.52644
+
+harmony,one,Harmony,,"['Harmony Ecosystem', 'Protocol', 'Smart Contract Platform']","Harmony’s open, decentralized network is enabled through the use of the native protocol token - Harmony ONE. The token incentivizes and rewards a variety of participants including developers, validators/stakers, investors, and community members who develop, secure and govern the network. In order to use the network, users pay a small transaction fee denominated in the native Harmony token.
+
+
+
+Harmony’s scalable, high-throughput protocol is powered by a native token which is used for various forms of payment and participation in the protocol (staking, transaction fees, voting & governance).
+
+
+
+Harmony uses blockchain to align incentives of different stakeholders, developers and businesses while allowing them to build open marketplaces of fungible and non-fungible tokens and assets. Furthermore, the upcoming application of zero-knowledge proofs will allow Harmony to become a data sharing platform that can overcome the conflicting problem plaguing many information and data markets: that individual market participants’ have mutual distrust to share data but strong desire to acquire data themselves.
+
+
+
+The Harmony token will function in the following aspects of the protocol:
+
+
+
+The token is used for staking, which is necessary to participate in the POS consensus & earn block rewards and transaction fees.
+
+The token is used to pay for transaction fees, gas and storage fees.
+
+The token is used in voting for on-chain governance of the protocol.",https://harmony.one/,60,16,0.37,-43.74223,13156044839.793139,11705621431.1007
+
+tezos,xtz,Tezos,Proof of Stake,['Smart Contract Platform'],"Tezos is a coin created by a former Morgan Stanley analyst, Arthur Breitman. It is a smart contract platform which is does not involve in mining Tezos coins. It is a coin that promotes themselves on major ideas of self-amendment and on-chain governance. It is an <a href=""https://www.coingecko.com/en/coins/ethereum"">Ethereum</a>-like blockchain that hosts smart contracts. It allows the community to vote and improve its flaws. Any token holder may delegate their voting rights to others in the network. The coin uses a generic network shell which allow different transaction and consensus protocols that a blockchain needs to be compatible.
+
+
+
+The source code is implemented on OCaml which is a fast, flexible and functional programming language which should suit an ambitious project and its technical requirements. Tezos’ proof-of-stake consensus algorithm is different from the <a href=""https://www.coingecko.com/en?hashing_algorithm=Delegated+Proof-of-Stake&view=market"">delegated proof-of-stake (dPOS)</a> where they go by the name liquid proof-of-stake. This liquid proof-of-stake that Tezos uses focus in filling the gap between both security and decentralization but still being able to take advantage of the benefits that delegated proof-of-stake offers. The staking process in Tezos is called “baking”. In this blockchain, bakers who make deposits will be rewarded for signing up and publishing blocks. However, if a baker commits any bad behavior the deposits will be forfeited.
+
+
+
+Baking & Endorsing
+
+Baking is what Tezos refers to as the action of signing and publishing a new block in the chain. Bakers need at least 8,000 XTZ to qualify as a delegate, and having additional delegated stake increases their chances of being selected as a Baker or Endorser.
+
+
+
+At the beginning of each cycle (4096 blocks), the Bakers for each block are randomly selected and published. Bakers earn a block reward of 40 XTZ for baking a block.
+
+
+
+In addition to the Baker, 32 Endorsers are randomly selected to verify the last block that was baked. Endorsers receive 1.25 XTZ for each block they endorse.
+
+
+
+Block Rewards & Inflation
+
+Block rewards are funded by protocol defined inflation. Rewards are calibrated so that the number of XTZ tokens grows at roughly 5.5% per year. If 100% of Tezos tokens are delegated, the annualized yield will be 5.5%. As of May 2021, approximately 78.8% of Tezos tokens have been delegated, including the 10% owned by the Tezos Foundation, so the annualized yield is roughly 5.8%.
+
+
+
+To ensure Bakers and Endorsers act honestly, they are required to post a security deposit for each block they Bake or Endorse. They forfeit this deposit in the event of malicious activity, such as double baking or double endorsing a block.
+
+
+
+In 2018, Tezos successfully launched their main network after delaying the launch due to corporate governance disputes. The Tezos foundation planned to transition the network to a mainnet, or a more complete version. The foundation has also raised $232 million in July 2017 to build the network and issue a new type of cryptocurrency to its backers in one of the largest- ever initial coin offerings. The founders have also made it clear in their blog that the network is using a new blockchain technology hence unexpected issues may still occur affecting the network.
+
+
+
+Check out <a href=""https://www.coinbureau.com/review/tezos-xtz/"">CoinBureau</a> for the complete review of Tezos.",https://www.tezos.com/,44,17,0.059,-5.26151,,876536106.25744
+
+eos,eos,EOS,Delegated Proof-of-Stake,['Smart Contract Platform'],"What Is EOS?
+
+EOS has always been one of the most hype over ICO and now a smart contract platform. When it was announced by founder <a href=""https://www.linkedin.com/in/daniel-larimer-0a367089/"">Dan Larimer</a> in New York City in May 2017, a giant jumbotron advertisement could be seen glowing over Times Square. In the first 5 days of their <a href=""https://www.coingecko.com/en/ico/eos"">ICO token sale</a>, EOS raised an unprecedented $185 million in ETH — all without having any kind of product or service yet.
+
+
+
+EOS claims to be “the most powerful infrastructure for decentralized applications.” Basically, EOS is (or, rather, will be) a blockchain technology much like <a href=""https://www.coingecko.com/en/coins/ethereum"">Ethereum</a>. They plan to create their own blockchain with a long list of impressive features. Some are even calling EOS the “Ethereum killer.” But along with all the hype and excitement about EOS, there’s also a large amount of skepticism coming from the crypto community.
+
+
+
+The EOS Vision
+
+EOS has big plans. It will be a software that will act as a decentralized operating system. Developers can then build applications on the EOS software. It will be highly scalable, flexible, and usable. The most notable feature that everyone is getting excited about is horizontal scalability — what this means is the EOS blockchain will be able to allow parallel execution of smart contracts and simultaneous processing of transactions. This could be a real game changer.
+
+
+
+EOS will incorporate the <a href=""https://www.coingecko.com/en?hashing_algorithm=Delegated+Proof-of-Stake"">delegated proof-of-stake (DPoS)</a> consensus protocol, created by founder Dan Larimer himself. This system is less centralized, uses far less energy, and is incredibly fast — as in, up to millions-of-transactions-per-second fast. Furthermore, there will be no user fees on the EOS blockchain. This would also set them apart from the competition and could help them gain more widespread adoption of their platform.
+
+
+
+EOS also wants to put a blockchain constitution in place to secure user rights and enable dispute resolution. As explained in their technical whitepaper: ""The EOS.IO software is designed from experience with proven concepts and best practices, and represents fundamental advancements in blockchain technology. The software is part of a holistic blueprint for a globally scalable blockchain society in which decentralized applications can be easily deployed and governed.""
+
+
+
+Tokens that are issued on top of the EOS platform includes <a href=""https://www.coingecko.com/en/coins/everipedia"">Everipedia</a>, <a href=""https://www.coingecko.com/en/coins/horuspay"">HorusPay</a>, <a href=""https://www.coingecko.com/admin/coins/meetone"">Meet One</a>, and more.",https://eos.io/,58,18,0.032,-16.32115,,984076927.7297
+
+zcash,zec,Zcash,Equihash,['Privacy Coins'],"Zcash is a decentralized and open-source cryptocurrency that offers privacy and selective transparency of transactions. Zcash payments are published on a public blockchain, but the sender, recipient, and amount of a transaction remain private.
+
+
+
+Zcash is based on peer-reviewed cryptographic research, and built by a security-specialized engineering team on an open source platform based on Bitcoin Core's battle-tested codebase. Our improvement over <a href=""https://www.coingecko.com/en/coins/bitcoin"">Bitcoin</a> is the addition of privacy. Zcash uses advanced cryptographic techniques, namely zero-knowledge proofs, to guarantee the validity of transactions without revealing additional information about them.
+
+
+
+How Zcash works
+
+
+
+Zcash encrypts the contents of shielded transactions. Since the payment information is encrypted, the protocol uses a novel cryptographic method to verify their validity.
+
+
+
+Zcash uses a zero-knowledge proof construction called a zk-SNARK, developed by our team of experienced cryptographers based on recent breakthroughs in cryptography. These constructions allow the network to maintain a secure ledger of balances without disclosing the parties or amounts involved. Instead of publicly demonstrating spend-authority and transaction values, the transaction metadata is encrypted and zk-SNARKs are used to prove that nobody is cheating or stealing.
+
+
+
+Zcash also enables users to send public payments which work similarly to Bitcoin. With the support for both shielded and transparent addresses, users can choose to send Zcash privately or publicly. Zcash payments sent from a shielded address to a transparent address reveal the received balance, while payments from a transparent address to a shielded address protect the receiving value. 
+
+
+
+Check out <a href=""https://www.coinbureau.com/education/what-is-zcash/"">CoinBureau</a> for guide on What is ZCash.",https://z.cash/,81,19,0.017,-17.46924,21000000.0,12115268.9162968
+
+crypto-com-chain,cro,Crypto.com Coin,Ethash,"['Cosmos Ecosystem', 'Centralized Exchange Token (CEX)', 'Exchange-based Tokens']","We propose Crypto.com Chain, the next generation decentralized mobile payment protocol, the most efficient and secure way to pay and be paid in crypto, anywhere, any crypto
+
+without fees. Crypto.com Chain will deliver on its vision by developing innovative technology components and processes (inc. scalable encryption algorithm to protect users’ privacy, utilizing trusted execution environments, sustainable price stability mechanisms, user protection via PoGSD) catered specifically to cryptocurrency payment, while leveraging proven blockchain technology structural design elements. ",https://www.crypto.com/en/chain,15,20,2.065,0.9252,30263013692.0,25263013692.0
+
+vechain,vet,VeChain,,"['Internet of Things (IOT)', 'Artificial Intelligence', 'Business Platform', 'Smart Contract Platform']",,https://www.vechain.org,42,21,0.056,-29.10668,86712634466.0,66760741299.0
+
+cosmos,atom,Cosmos,,"['Cosmos Ecosystem', 'Cryptocurrency', 'Binance Smart Chain Ecosystem']","The Cosmos network consists of many independent, parallel blockchains, called zones, each powered by classical Byzantine fault-tolerant (BFT) consensus protocols like Tendermint (already used by platforms like ErisDB). Some zones act as hubs with respect to other zones, allowing many zones to interoperate through a shared hub. The architecture is a more general application of the Bitcoin sidechains concept, using classic BFT and Proof-of-Stake algorithms, instead of Proof-of-Work.Cosmos can interoperate with multiple other applications and cryptocurrencies, something other blockchains can’t do well. By creating a new zone, you can plug any blockchain system into the Cosmos hub and pass tokens back and forth between those zones, without the need for an intermediary.
+
+
+
+While the Cosmos Hub is a multi-asset distributed ledger, there is a special native token called the atom. Atoms have three use cases: as a spam-prevention mechanism, as staking tokens, and as a voting mechanism in governance.
+
+
+
+As a spam prevention mechanism, Atoms are used to pay fees. The fee may be proportional to the amount of computation required by the transaction, similar to Ethereum’s concept of “gas”. Fee distribution is done in-protocol and a protocol specification is described here.
+
+
+
+As staking tokens, Atoms can be “bonded” in order to earn block rewards. The economic security of the Cosmos Hub is a function of the amount of Atoms staked. The more Atoms that are collateralized, the more “skin” there is at stake and the higher the cost of attacking the network. Thus, the more Atoms there are bonded, the greater the economic security of the network.
+
+
+
+Atom holders may govern the Cosmos Hub by voting on proposals with their staked Atoms.",http://cosmos.network/,21,22,0.089,-31.5223,,288104176.387606
+
+loopring,lrc,Loopring,,"['Decentralized Exchange Token (DEX)', 'Decentralized Finance (DeFi)', 'Exchange-based Tokens']","Loopring is a Decentralized Exchange (DEX) built on an Ethereum Layer-2 (L2) solution called zkRollup. It has both Automated Market Maker (AMM)-based and orderbook-based exchanges. 
+
+
+
+zkRollup is an Ethereum L2 scaling solution that migrates computations off the blockchain. Loopring protocol only uses the underlying Ethereum blockchain as a data layer and a verification layer. As a result, Loopring's throughput is as high as 2,025 trades per second compared to Ethereum’s current throughput of 15 transactions per second. The result is that the cost per trade settlement is as small as $0.00015.
+
+
+
+Loopring's performance is sufficient for professional traders and market makers to deploy algorithmic strategies and other automated trading bots. This was not previously possible on any DEX as it was prohibitively slow and expensive. By building on top of Loopring 3.0, orderbook-based DEXs can be commercially viable for the first time. Loopring expects non-custodial exchanges can begin to outcompete and displace many centralized counterparts.",https://loopring.org/,89,23,0.044,-41.07763,1373873440.44246,1245991468.94246
+
+elrond-erd-2,egld,Elrond,,"['Protocol', 'Smart Contract Platform']","Elrond is a technology ecosystem for the new internet. Its smart contracts execution platform is capable of 15,000 TPS, 5s latency and $0.001 tx cost, focused on fintech, DeFi and IoT.
+
+
+
+Elrond’s money & DeFi app Maiar offers an intuitive first-time experience with blockchain, offering progressive security and a gamified approach to unlocking more useful features.
+
+
+
+The Elrond Proof of Stake economic model has a limited supply; its token is named eGold to convey the notion of digital store of value to the next billion users.",https://elrond.com,40,24,0.193,-6.97294,20397843.0,20534393.0
+
+the-graph,grt,The Graph,,"['Arbitrum Ecosystem', 'Avalanche Ecosystem', 'xDAI Ecosystem', 'Near Protocol Ecosystem', 'Polygon Ecosystem', 'Binance Smart Chain Ecosystem', 'Solana Ecosystem', 'Decentralized Finance (DeFi)', 'Infrastructure', 'Business Services', 'Analytics']","The Graph is an indexing protocol and global API for organizing blockchain data and making it easily accessible with GraphQL. Developers can use Graph Explorer to search, find, and publish all the public data they need to build decentralized applications. The Graph Network makes it possible to build serverless dApps that run entirely on public infrastructure.
+
+
+
+GRT is the native token of the network that’s used to coordinate work. GRT is an ERC20 token. Node operators, called Indexers, stake and earn GRT for processing queries. Anyone can delegate GRT to Indexers to secure the network and earn rewards. Curators organize data on The Graph by signaling GRT on useful APIs, called subgraphs. Indexers, Delegators, and Curators work together to organize the data for the crypto economy and maintain a useful global API for DeFi and Web3.
+
+",https://thegraph.com/,54,25,0.092,-28.70312,10000000000.0,6157231561.0
+
+fantom,ftm,Fantom,,"['Fantom Ecosystem', 'Infrastructure', 'Binance Smart Chain Ecosystem', None, 'Smart Contract Platform']","FANTOM is a new DAG based Smart Contract platform that intends to solve the scalability issues of existing public distributed ledger technologies. 
+
+
+
+The platform intends to distinguish itself from the traditional block ledger-based storage infrastructure by attempting to employ an improved version of existing DAG-based pro-tocols. The FANTOM platform adopts a new protocol known as the “Lachesis Protocol” to maintain consensus. This protocol is intended to be integrated into the Fantom OPERA Chain. The aim is to allow applications built on top of the FANTOM OPERA Chain to enjoy instant transactions and near zero transaction costs for all users. 
+
+
+
+The mission of FANTOM is to provide compatibility between all transaction bodies around the world, and create an ecosystem which allows real-time transactions and data sharing with low cost.",http://fantom.foundation,32,26,0.162,-32.74796,3175000000.0,2541152731.01
+
+neo,neo,NEO,,['Smart Contract Platform'],"NEO is a next generation smart economy platform (formerly Antshares) and China's first open source blockchain that was founded in 2014, is often known as the “<a href=""https://www.coingecko.com/en/coins/ethereum"">Ethereum</a> of China”. 
+
+
+
+What is NEO?
+
+NEO uses a smart economy approach to implement its distributed network concept. Its main objective is to digitize assets using the decentralized network of blockchain technology and digital identity.
+
+
+
+Neo’s main aim is to be the distributed network for “smart economy”.  As their website states: ""Digital Assets + Digital Identity + <a href=""https://www.coingecko.com/en?category_id=29"">Smart Contract</a> = Smart Economy."" Neo was developed by Shanghai-based blockchain R&D company “OnChain” and funded by two crowdsales: first crowdsale on October 2015 sold 17.5 million NEO tokens for $550,000 and the second crowdsale sold the remaining 22.5 million NEO tokens for $4.5 million.
+
+
+
+So why NEO?
+
+Asset digitization and identity on the <a href=""https://www.coingecko.com/en?asset_platform_id=480"">NEO platform</a> essentially creates a novel way for asset registration, issuance, and circulation. This means that tangible assets like real estate, company shares or even fiat money can be digitized and traded on the NEO network, thus giving rise to a whole new economy.
+
+
+
+Its digital identity system allows for integration between the platform and the real world economy. It has custom digital identity standards that enable the creation of electronic identity data for individuals, organizations and even entities. These electronic systems use multi-layered authentication models that include facial and voice recognition as well as fingerprints.
+
+
+
+All digital assets on the platform enjoy legal protection thanks to the use of digital certificates on its public blockchain. This, in turn, guarantees trust as the system offers an indelible and unalterable record of all entities’ holdings.",https://neo.org/,76,27,0.038,-11.27196,100000000.0,70530000.0
+
+decentraland,mana,Decentraland,,"['Metaverse', 'Polygon Ecosystem', 'Play To Earn', 'Entertainment', 'Non-Fungible Tokens (NFT)']","Decentraland is an Ethereum-powered virtual reality platform. In this virtual world, you purchase plots of land that you can later traverse, build upon, and monetize. There’s no limit to what you can do. It’s the first digital platform that’s completely owned by its users. Similar to games like Skyrim and Fallout, Decentraland is an all-immersive virtual universe. However, instead of playing on a 2-dimensional screen, you participate in a 3-dimensional world. It seems to be the logical next step before creating full-blown AI-based games in the physical space à la Westworld. Similar groupings on LAND comprise Districts. Districts are basically communities that revolve around a shared theme. For example, there may be a District just for crypto enthusiasts with cryptocurrency apps and services.
+
+
+
+The Decentraland team is led by Ari Meilich (Project Lead) and Esteban Ordano (Tech Lead). Ordano previously worked at <a href=""https://bitpay.com/"">Bitpay</a> as a software engineer and founded Smart Contract Solutions, Inc. Both founders have also worked together in creating Stremium and <a href=""https://www.coingecko.com/en/coins/bitcore"">Bitcore</a>. Decentraland has been around for longer than you may think. The team hit their first development milestone, Stone Age, in June 2015. This was a simple, pixelated grid that allocated pixels to users through a proof-of-work algorithm. Most recently, they held a Terraform Event in which they sold LAND in the new, 3D world. The team has also partnered with <a href=""https://www.coingecko.com/en/coins/district0x"">district0x</a>, <a href=""https://www.coingecko.com/en/coins/aragon"">Aragon</a>, and imToken to provide some of their services. 
+
+
+
+MANA is the token used to buy lands in Decentraland. The Blockchain platform can be incorporated in order to buy or sell the various digital assets available in the virtual world. An unclaimed land would have the same market pricing on every exchange possible and precisely the developers are on a hunt for such since as they can build on top of it, and attract lot of popularity. However, one must keep in mind that the land parcels are different from them and each one of them varies according to the various market conditions of that time. Mana can be a great investment and can be bought by trading and with other <a href=""https://www.coingecko.com/en/coins/bitcoin"">Bitcoin</a>, <a href""https://www.coingecko.com/en/coins/ethereum"">Ethereum</a>, or any other prominent cryptocurrency and on some of the most notable cryptocurrency exchanges. Specifically, <a href=""https://www.coingecko.com/en/exchanges/binance"">Binance</a> and <a href=""https://www.coingecko.com/en/exchanges/huobi"">Huobi</a> are two of the best cryptocurrency exchanges that one can suggest for trading Mana tokens.
+
+
+
+The Decentraland coin isn’t a minable cryptocurrency as it is issued on the Ethereum blockchain, unlike Bitcoin and other similar currencies. So users looking to engage in some Decentraland mining will be disappointed. Instead, it was sold during token sales and is now being traded on exchanges.",https://decentraland.org/,36,28,0.902,-4.24139,2193846227.32015,1511485069.7244349
+
+basic-attention-token,bat,Basic Attention Token,,[],"Basic Attention Token (BAT) is an open-source, decentralized ad exchange platform built on <a href=""https://www.coingecko.com/en/coins/ethereum"">Ethereum</a> platform. Basic Attention Token held an initial coin offering on May 31, 2017 for its eponymous ERC-20 utility token, raising approximately $35M USD at the time in less than 30 seconds. The Basic Attention Token aims to fix digital advertising, which is broken, fraudulent and opaque. 
+
+
+
+Basic Attention Token work by having advertisers pay BAT to website publishers for the attention of users. The BAT token is designed to correctly value and price user attention within the platform. The Basic Attention Token comprises various components, including attention measurement systems, analytics dashboards and machine learning algorithms. Integration of BAT into a given host application involves implementing BAT Ads, a system that matches and displays ads to users based on locally stored data. Ad targeting is performed wholly on-device, removing the need for third-party tracking. BAT is focused on the Brave browser. Brave is an open-source, privacy-centered browser designed to block trackers and malware. It utilizes blockchain technology to anonymously and securely track user attention, which translates into rewards for publishers.
+
+
+
+A user's attention, meaning his or her focused mental engagement on digital content like advertisements, is logged through Brave. The makers of BAT indicate that the user's private data and tracking information is stored only on the user's device, ensuring that it is anonymous and private.
+
+
+
+Created back in 2016, the Basic Attention Token has one of the biggest names behind it, that of Brendan Eich, the creator of JavaScript and the legendary co-founder of Mozilla. Other noteworthy team members include Brian Bondy, lead developer and co-founder of Brave and Scott Locklin, senior engineer, and co-founder of Kerf Software.""
+
+
+
+Basic Attention Token is created by the team that built the <a href=""https://brave.com/coi600"">Brave browser</a>, an open-source, privacy-focused browser that blocks ads and trackers. The browser measures user attention and rewards publishers for users attention. 
+
+
+
+Use the Brave browser to protect your privacy and support CoinGecko at the same time: https://brave.com/coi600",https://basicattentiontoken.org/,88,29,0.09,-26.95858,1500000000.0,1495585511.4473505
+
+zilliqa,zil,Zilliqa,Ethash,"[None, 'Binance Smart Chain Ecosystem', 'Smart Contract Platform']","Zilliqa (ZIL) is a token developed in the year 2017. Zilliqa is mainly based on the concept of Sharding and primarily aims at improving the scalability of the cryptocurrency networks as in case of Bitcoin or Ethereum. The white paper mentions that the transactions speed would be approximately a thousand times more than that of Ethereum network. Ziliqa is fast, secured and decentralized. Zilliqa’s high throughput means that you can focus on developing your ideas without worrying about network congestion, high transaction fees or security which are the key issues with legacy blockchain platforms. Zilliqa network uses a concept called Sharding where the transactions are grouped into smaller groups and divided among the miners for the parallel transactional verification. Developing smaller groups for transactional verification means the Consensus can be reached faster and hence a higher number of transactions can be processed in a given time frame. The capacity of the network linearly increases in other cryptocurrencies as the number of people joins the network, but in this case, the capacity is increased at a higher variable rate than the number of members joining the network. By incorporating the Sharding Technology, it can completely revolutionize the smart contract functionality too. Ziliqa has few pros as it has a great new technology. Zilliqa is the first platform to use sharding technology. This puts it ahead of the rest of the market. It’s a completely new kind of blockchain designed to solve the problem of scalability. Third-generation platforms like Zilliqa could be the big winners in the future of cryptocurrency. Ziliqa has a strong community. The platform has a lot of fans. The Zilliqa ICO only happened because there was so much demand for it. The Zilliqa ICO also shows that the crypto community is ready to see blockchain technology move to the next phase of its development.",https://www.zilliqa.com/,124,30,0.069,-24.78253,21000000000.0,13929588523.4549
+
+waves,waves,Waves,Proof of Stake,"['Solana Ecosystem', 'Smart Contract Platform']","Waves is an open blockchain protocol and development toolset for Web 3.0 applications and decentralized solutions, aiming to raise security, reliability and speed of IT systems. It enables anyone to build their apps, fostering mass adoption of blockchain.",https://waves.tech/,101,31,0.017,-34.08486,100000000.0,100000000.0
+
+nano,xno,Nano,Directed Acyclic Graph (DAG),['Cryptocurrency'],"Nano, a low-latency cryptocurrency built on an innovative block-lattice data structure offering unlimited scalability and no transaction fees. Nano by design is a simple protocol with the sole purpose of being a high-performance cryptocurrency. The Nano protocol can run on low-power hardware, allowing it to be a practical, decentralized cryptocurrency for everyday use.
+
+
+
+The original Nano (RailBlocks) paper and first beta implementation were published in December, 2014, making it one of the first <a href=""https://www.coingecko.com/en?hashing_algorithm=Directed+Acyclic+Graph+%28DAG%29"">Directed Acyclic Graph (DAG)</a> based cryptocurrencies [6]. Soon after, other <a href=""https://www.coingecko.com/en?hashing_algorithm=Directed+Acyclic+Graph+%28DAG%29"">DAG</a> cryptocurrencies began to develop, most notably DagCoin/<a href=""https://www.coingecko.com/en/coins/byteball"">Byteball</a> and <a href=""https://www.coingecko.com/en/coins/iota"">IOTA</a>. These <a href=""https://www.coingecko.com/en?hashing_algorithm=Directed+Acyclic+Graph+%28DAG%29"">DAG</a>-based cryptocurrencies broke the blockchain mold, improving system performance and security. <a href=""https://www.coingecko.com/en/coins/byteball"">Byteball</a> achieves consensus by relying on a “main-chain” comprised of honest, reputable and user-trusted “witnesses”, while <a href=""https://www.coingecko.com/en/coins/iota"">IOTA</a> achieves consensus via the cumulative PoW of stacked transactions. Nano achieves consensus via a balance-weighted vote on conflicting transactions. This consensus system provides quicker, more deterministic transactions while still maintaining a strong, decentralized system. Nano continues this development and has positioned itself as one of the highest performing cryptocurrencies.
+
+
+
+Nano is a trustless, feeless, low-latency cryptocurrency that utilizes a novel blocklattice structure and <a href=""https://www.coingecko.com/en?hashing_algorithm=Delegated+Proof-of-Stake"">delegated Proof of Stake</a> voting. The network requires minimal resources, no high-power mining hardware, and can process high transaction throughput. All of this is achieved by having individual blockchains for each account, eliminating access issues and inefficiencies of a global data-structure. We identified possible attack vectors on the system and presented arguments on how Nano is resistant to these forms of attacks.
+
+
+
+Check out <a href=""https://www.coinbureau.com/review/nano/"">CoinBureau</a> for the complete review of Nano.",https://nano.org/en,209,32,0.037,-33.31481,133248290.0,133248290.0
+
+internet-computer,icp,Internet Computer,,['Smart Contract Platform'],"Internet Computer (IC) is the world’s first blockchain that is capable of running at web speed at unrestrictive capacities. Built by the DFINITY Foundation, IC aims to recreate the web by supporting smart contract development at scale and changing the way people can interact using web services. Internet Computer aims to extend the public internet, so that it can be the world’s computing platform, in a decentralized manner. Internet Computer sets to revolutionalize the design of the crypto economy, with an aim to overhaul traditional software services. 
+
+
+
+The project was founded in October 2016 by Dominic WIllams and have raised a total of $121 million from investors such as Adreessen Horowitz, Polychain Capital, Multicoin Capital and such. On May 10, 2021, DFINITY launched the Internet Computer into the public domain, marking it a major milestone for ICP as it means the internet now functions as a decentralised global computer. This is marked by the release of all of the Internet Computer’s source code into the public domain, as well as ICP utility token that allows tens of thousands of community members to govern the Internet Computer network.
+
+
+
+ICP is Internet Computer's native token. It plays three prominent roles:
+
+
+
+1. Network Governance: Users that participate in the governance will be rewarded with ICPI
+
+2. Production of Cycles for Compute: ICP can be converted into cycles where it is used as the transaction fee to access the network. Cycles are burned after used.
+
+3. Rewarding Users: ICP is used as the rewards to incentivize users to participate in the network such as securing the network.",https://dfinity.org/,39,33,0.053,-42.04671,469213710.0,206578830.095187
+
+dash,dash,Dash,X11,"['Cryptocurrency', 'Masternodes']","Dash (DASH) is digital cash designed to offer financial freedom to everyone. Payments are instant, easy and secure, with near-zero fees.
+
+Built to support real life use cases, Dash is the leading decentralized payment solution. Users can purchase goods at thousands of merchants and trade it at major exchanges and brokers around the globe.
+
+Since its creation in 2014, Dash has demonstrated leadership in innovation and pioneered groundbreaking features such as:
+
+-Two-tier network with incentivized nodes and decentralized project governance (Masternodes)
+
+-Instantly settled payments (InstantSend)
+
+-Instantly immutable blockchain (ChainLocks)
+
+-Optional privacy (PrivateSend)",https://www.dash.org,94,34,0.032,-26.74565,18920000.0,10575812.9918157
+
+mina-protocol,mina,Mina Protocol,,[],"The world's lightest blockchain, powered by participants. Mina is building a privacy-preserving gateway between the real world and crypto — and the infrastructure for the secure, democratic future we all deserve.",https://minaprotocol.com/,105,35,0.031,-29.67891,892640332.840039,375625855.840039
+
+maker,mkr,Maker,,"['Lending/Borrowing', 'Avalanche Ecosystem', 'Near Protocol Ecosystem', 'Decentralized Finance (DeFi)', 'Governance']","MKR is a cryptocurrency depicted as a smart contract platform and works alongside the Dai coin and aims to act as a hedge currency that provides traders with a stable alternative to the majority of coins currently available on the market. Maker offers a transparent stablecoin system that is fully inspectable on the Ethereum blockchain. Founded almost three years ago, MakerDao is lead by Rune Christensen, its CEO and founder. Maker’s MKR coin is a recent entrant to the market and is not a well known project. However, after today it will be known by many more people after blowing up 40% and it is one of the coins to rise to prominence during the recent peaks and troughs.
+
+
+
+After being developed by the MakerDAO team, Maker Dai officially went live on December 18th, 2017. Dai is a price stable coin that is suitable for payments, savings, or collateral and provides cryptocurrency traders with increased options concerning opening and closing positions. Dai lives completely on the blockchain chain with its stability unmediated by the legal system or trusted counterparties and helps facilitate trading while staying entirely in the world of cryptocurrencies. The concept of a stablecoin is fairly straight forward – it’s a token that has its price or value pegged to a particular fiat currency. A stablecoin is a token (like <a href=""https://www.coingecko.com/en/coins/bitcoin"">Bitcoin</a> and <a href=""https://www.coingecko.com/en/coins/ethereum"">Ethereum</a>) that exists on a blockchain, but unlike Bitcoin or Ethereum, Dai has no volatility.
+
+
+
+MKR is an ERC-20 token on the Ethereum blockchain and can not be mined. It’s instead created/destroyed in response to DAI price fluctuations in order to keep it hovering around $1 USD. MKR is used to pay transaction fees on the Maker system, and it collateralizes the system. Holding MKR comes with voting rights within Maker’s continuous approval voting system. Bad governance devalues MKR tokens, so MKR holders are incentivized to vote for the good of the entire system. It’s a fully decentralized and democratic structure, then, which is an underutilized USP of blockchain tech.
+
+
+
+Value volatility is a relative concept among both cryptos and fiat currencies. The US dollar, for example, was worth 110.748 yen on July 9, 2018. On July 4, 2011, $1 was worth 80.64 yen, and on March 18, 1985, $1 was worth 255.65 yen. These are major differences in exchange rates, and inflation within each country makes each currency worth different values even when compared to themselves. One USD in 1913 is worth the equivalent of $25.41 today, and even $1 in 1993 is worth the equivalent of $1.74 today. Stablecoins don’t negate these basic economic principles of value. Instead, both Tether and Dai have values pegged to the U.S. dollar. This is done to stabilize the price.",https://makerdao.com/,67,36,0.084,-6.52296,977631.036950888,901310.9472893132
+
+near,near,Near,,"['Near Protocol Ecosystem', 'Smart Contract Platform']","NEAR is a sharded, developer-friendly, proof-of-stake public blockchain, built by a world-class team that has built some of the world's only sharded databases at scale. ",https://nearprotocol.com/,23,37,0.0,-37.40402,1000000000.0,631605584.237846
+
+havven,snx,Synthetix Network Token,,"['Synthetic Issuer', 'Derivatives', 'Governance', 'Yield Farming', 'Decentralized Finance (DeFi)', 'Decentralized Exchange Token (DEX)', 'Exchange-based Tokens']","Synthetix is based in Australia, Synthetix launched a seed funding round in September, 2017 to develop the concept of a self-contained stablecoin payment network. They then kicked off their public ICO on February 28, 2018 and by the end of the ICO on March 7, 2018, they had met their goal of $30,000,000 USD. Synthetix was <a href=""https://blog.havven.io/havven-is-transforming-into-synthetix-2fdf727b8892"">rebranded</a> from Havven on November 30, 2018.
+
+
+
+Synthetix is led by a multidisciplinary team of 13 individuals. The project was founded by Kain Warwick, who previously co-founded blueshyft, one of the largest digital payment networks in Australia. The CTO is Justin Moses, who also serves as the Director of Engineering at MongoDB. Synthetix aims to address the problem that companies running centralized payment networks such as PayPal, credit card networks, or the SWIFT banking network have “absolute control over the value within the network, so any transaction conducted within them may be blocked or reversed at any time.” According to the Synthetix white paper, “Although this is ostensibly designed to protect users, it introduces systemic risk for all participants. If the network is compromised or its owners cease to behave benevolently, no party can trust that the value in their account is secure or accessible.”
+
+
+
+This is theorized to work because anyone who holds SNX tokens in escrow will be incentivized by Synthetix rewards derived from network transaction fees that will be distributed “in proportion with how well each issuer maintains the correct Synths supply.” When a Synthetix escrow user puts their SNX in escrow, USD-stabilized Synths will be automatically put up for sale on a decentralized exchange at a price of $1 USD. To release escrowed SNX, the user must buy back the Synths issued (also at a price of $1 USD) at which point the Synths will be burned. The Synthetix system uses an algorithm to adjust network fees, and therefore dividends, to SNX holders to incentivize (or disincentivize) the holding of SNX in escrow smart contracts, and thus, the creation of Synths. The theory is that this will cause users to mint and burn Synths in the appropriate amount based solely on supply and demand.",https://www.synthetix.io/,99,38,0.044,-8.60298,242519074.690449,202081531.42308292
+
+status,SNT,Status,,['Software'],"Status is a mobile operating system that will completely change the way the world interacts with the <a href=""https://www.coingecko.com/en/coins/ethereum"">Ethereum</a> network.  Designed as a decentralized browser and private messenger, Status allows you to connect to the entire Ethereum network right in the palm of your hand. Status provides you access to all of Ethereum’s decentralized applications (dapps) through an app on your smartphone. It opens the door to mass adoption of Ethereum dapps by targeting the fastest growing computer segment in the world – smartphone users.
+
+
+
+The creators behind Status are working towards bringing a decentralized world to life. Status essentially combines a messenger and a browser that allows everyday smartphone users to use decentralized applications, also known as dapps. Status is available on both Android and iOS. Status users can safely send, receive, and store Ether and other Ethereum crypto assets on their phone. They can also discover nearby Status users to exchange currency, services, and ideas locally.
+
+
+
+The first time the world heard about the idea of Status was September 2016, at DevCon2, an annual conference for developers on the Ethereum blockchain. Co-founders <a href=""https://www.linkedin.com/in/carlbennetts/"">Carl Bennetts</a> and <a href=""https://www.linkedin.com/in/jarradhope/"">Jarrad Hope</a> gave a presentation revealing the plans for their Ethereum light client.
+
+
+
+SNT is currently available for trade on many online exchanges, including <a href=""https://www.coingecko.com/en/exchanges/huobi"">Huobi</a>, <a href=""https://www.coingecko.com/en/exchanges/binance"">Binance</a>, and <a href=""https://www.coingecko.com/en/exchanges/bittrex"">Bittrex</a>.",https://status.im/,256,39,0.015,-4.63207,6804870174.0,3880483788.3096976
+
+bancor,bnt,Bancor Network Token,,"['Decentralized Exchange Token (DEX)', 'Automated Market Maker (AMM)', 'Decentralized Finance (DeFi)', 'Exchange-based Tokens']","Bancor is a blockchain protocol that allows users to convert between different tokens directly as opposed to exchanging them on cryptocurrency markets. The project offers a network, which we’ll discuss soon, that works to bring liquidity to the majority of tokens that lack a consistent supply/demand in exchanges. That network is built on smart contracts and a new class of cryptocurrencies that the team calls “Smart Tokens.” Bancor is looking to provide support to the illiquidity that currently exists within the cryptocurrency market. Illiquidity isn’t so much an issue for top coins like <a href=""https://www.coingecko.com/en/coins/bitcoin"">Bitcoin</a> or <a href=""https://www.coingecko.com/en/coins/ethereum"">Ethereum</a> because there are always buyers and sellers looking to exchange those coins. It is definitely an issue, however, for the thousands of other tokens that may serve legitimate decentralized purposes but haven’t attracted enough attention in the market to be liquid.
+
+
+
+Bancor’s protocol uses smart contracts to create Smart Tokens, which serve as an alternative mechanism for trading. A key characteristic of the protocol is that it doesn’t call for an exchange of tokens with a second party, as in the case of cryptocurrency exchanges. Rather, it employs Smart Tokens to convert between different ERC-20 tokens internally. These conversions take place through the blockchain’s protocol and completely outside of cryptocurrency exchanges. Smart Tokens process token conversions internally by holding reserves of other ERC20 tokens within their Smart Contract. They can then convert back and forth between those reserves as users request it.
+
+
+
+The Bancor team consists of a core Foundation Council and their Advisory Board. The Foundation Council includes four individuals based out of Zug, Switzerland. Bernard Lietaer is a Belgian civil engineer, economist, author, and professor. Lietaer specialized in monetary systems and promotes the notion of communities creating their own local currencies. Guy Benartzi serves as co-founder and is recognized for founding the gaming company, Mytopia. Benartzi also co-founded Particle Code, a development studio based in Tel Aviv, Israel. Guido Schmitz-Krummacher is an executive of the Bancor Protocol foundation that’s involved with a variety of commercial entrepreneurial ventures in Switzerland. His involvement in the crypto space includes that of Bancor as well as an executive position in crowdfunding network, <a href=""https://www.coingecko.com/en/coins/tezos"">Tezos (XTZ)</a>. 
+
+
+
+One of the key elements of the Bancor Network is the automated pricing. This comes from the Smart Tokens’ built-in automated market makers. These automated market makers mean that the tokens’ smart contracts always buy or sell Smart Tokens from or to any user in exchange for any connector token (as well as any token found in the network). The price comes from the Bancor Formula. This formula that is responsible for balancing a Smart Token’s demand and supply while also maintaining the ratio between the token’s total value with the connector token balances. The creator of the Smart Token configures these ratios, known as the connector weight. The creator can adjust them with the goal of decreasing or increasing the liquidity level of the token. The connector weight indicates price sensitivity, or how much sells and buys affect the price movement. Any time the prices no longer syncs with prices listed on external exchanges, the arbitrageurs will quickly balance the gaps.""",https://www.bancor.network/,128,40,0.062,-20.69165,256483655.57993,256483477.096232
+
+gas,gas,Gas,,[],"Gas is one of the two coins created by <a href=""https://www.coingecko.com/en/coins/neo"">Neo</a> Foundation. Gas is used as a processing fees for <a href=""https://www.coingecko.com/en/coins/neo"">Neo</a> coin.
+
+
+
+<a href=""https://www.coingecko.com/en/coins/neo"">Neo</a> hashing algorithm is Proof of Stake (PoS), where blocks processing power depends on the amount of tokens held by miners instead of the Proof of Work method which depends on the mining power that a miner has to create a new block.
+
+
+
+<a href=""https://www.coingecko.com/en/coins/neo"">Neo</a> holders is compensated with certain amount of Gas every month, is a similar concept to the ether gas and is used as a power for transaction (transaction). It is a coin that is paid as compensation of a concept of interest generated by PoS mining.
+
+
+
+At the beginning of the release, about one <a href=""https://www.coingecko.com/en/coins/neo"">Neo</a> was paid per day with 1000 <a href=""https://www.coingecko.com/en/coins/neo"">Neo</a>, but it has a design algorithm that is gradually decreasing over time, which is offset by the price increase.
+
+
+
+It is a coin that is closely related to <a href=""https://www.coingecko.com/en/coins/neo"">Neo</a>, walking along the path of the companion with the rise of <a href=""https://www.coingecko.com/en/coins/neo"">Neo</a>, and it forms a necessary relationship that the movement must be moving in a fluid manner.",https://neo.org/,496,41,0.038,-2.78747,100000000.0,13935116.23912223
+
+qtum,qtum,Qtum,Proof of Stake,['Smart Contract Platform'],"Qtum is a decentralized and open-source smart contracts platform and value transfer protocol. Qtum uses proof-of-stake consensus, meaning node operators are rewarded for validating transactions. It is a DGP governed blockchain where community participants can vote to change certain network parameters. Qtum is built on a bitcoin core fork, but the foundation has created its own hybrid blockchain with the help of several key tools. The coin uses bitcoin’s chain because of its simple and stable nature, allowing the foundation to build upon it more easily.
+
+
+
+As the QTUM project is a hybrid of Bitcoin and <a href=""https://www.coingecko.com/en/price_charts/ethereum/usd"">Ethereum</a>, its team comprises of members from both Bitcoin and Ethereum community. They also have team members who formerly worked with Tencent, Alibaba, Nasdaq etc. Apart from that, they are backed by some notable VCs and prominent people from the Blockchain community such as Patrick Dai (Project Co-Founder), Neil Mahi (Chief Blockchain Architect/Co-Founder) and Jordan Earls (Lead Developer/Co-Founder).
+
+
+
+Qtum provides a Turing-complete blockchain stack and is able to <a href=""https://www.coingecko.com/en/coins/all?category_id=29"">execute smart contracts</a> and decentralised applications like the Ethereum blockchain.
+
+
+
+Qtum builds on Bitcoin's UTXO transaction model and uses the <a href=""https://www.coingecko.com/en/coins/all?hashing_algorithm=Proof+of+Stake"">Proof-of-Stake algorithm</a>. It is backed by some highly prominent members of the blockchain community such as Anthony Di Iorio, Xu Star, Bo Shen, David Lee, Jehan Chu and Roger Ver.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Qtum sold over 10 million dollars’ worth of its tokens after only 90 minutes, eventually raising a total value of $15.7 million before stopping the campaign early after only 5 days. They raised a total amount of 11,156.766 bitcoins (BTC) and 77,081.031 ether (ETH) in exchange for the 51 million Qtum tokens being distributed to the public. In Qtum’s whitepaper, 51% of the coins were distributed to the public via the crowdfunding campaign. Of the remaining 49%, 29% of the coins would be allocated as community incentives, and the remaining 20% would be distributed to the early backers and development team. ",https://qtum.org/en/,121,42,0.013,-13.8101,107822406.0,104040528.0
+
+storj,storj,Storj,,['Storage'],"Storj is an open-source platform that leverages the blockchain to provide end-to-end encrypted cloud storage services. Instead of maintaining its own data centres, Storj platform relies on a peer-to-peer network of individuals or entities sharing their storage spaces. The Storj project is owned and developed by Storj Labs Inc. Storj intends to facilitate a faster, cheaper, and secure file storage solution than traditional cloud storage platforms. To achieve its goal, Storj deploys several innovative technologies and methods to make sure that users are able to store and retrieve data in a fastest possible way while not compromising the security and integrity of data.
+
+
+
+Storj Labs Inc was founded in 2014 by Shawn Wilkinson with co-founders John Quinn. The company is headquartered at Atlanta, Georgia in the United States. Shawn was previously appointed as CEO, but in March 2018, he stepped down from the post to serve as CSO of the company.
+
+
+
+Shawn was replaced by Ben Golub (Ex-CEO of Docker) who currently serves as the Executive Chairman & Interim CEO. Co-founder John Quinn has been appointed as the Chief Revenue Officer. The company launched its initial coin offering (ICO) of the new tokens on May 19, 2017. At the end of the token sale on May 25, 2017, the company had raised about $30 million. Storj Labs allowed SJCX holders to exchange their tokens with the new ones in a 1:1 ratio through a token conversion campaign which lasted till October 2017.
+
+
+
+Storj Labs pre-mined its entire supply of tokens at the inception; no new tokens can be created via STORJ mining. Nevertheless, users can obtain STORJ tokens by becoming a farmer in the network. Another obvious way to acquire STORJ is through trading on a cryptocurrency exchange. Up until now, cloud storage companies have dictated the terms of service to their users, and as a result, there has been little to no competition within this digital sector. However, with the introduction of Storj, all of that may change.""
+
+
+
+Check out <a href=""https://www.coinbureau.com/review/storj/"">CoinBureau</a> for the full review on OmiseGo.",https://storj.io/,323,43,0.051,-30.70304,424999998.0,143787438.7
+
+nervos-network,ckb,Nervos Network,,[],"Nervos is a layered crypto-economy network. Nervos separates the infrastructure of a crypto-economy into two layers: a verification layer (layer 1) that serves as a trust root and smart custodian, and a generation layer (layer 2) for high-performance transactions and privacy protection.
+
+
+
+This document provides an overview of the Nervos Common Knowledge Base (CKB), a public permissionless blockchain and layer 1 of Nervos. CKB generates trust and extends this trust to upper layers, making Nervos a trust network. It's also the value store of the Nervos network, providing public, secure and censorship-resistant custody services for assets, identities and other common knowledge created in the network.
+
+
+
+The Nervos Common Knowledge Base (Nervos CKB for short) is a preservation focused, ""Store of Assets"" blockchain. Architecturally, it's designed to best support on-chain state and off-chain computation; economically, it's designed to provide sustainable security and decentralization. Nervos CKB is the base layer of the overall Nervos Network.",http://nervos.org,164,44,0.031,-27.21605,,29746843205.9769
+
+lisk,lsk,Lisk,Delegated Proof-of-Stake,['Smart Contract Platform'],"Lisk is a blockchain application platform, founded by Max Kordek and Oliver Beddows in early 2016. Based on its own blockchain network and token LSK, Lisk will enable developers to build blockchain applications and deploy their own sidechain linked to the Lisk network, including a custom token. Thanks to the scalability and flexibility of sidechains, developers can implement and customize their blockchain applications entirely.
+
+
+
+Lisk aims to make blockchain technology more accessible with a SDK written in JavaScript, special focus on user experience, developer support, in-depth documentations and the Lisk Academy. The Lisk network is operated using a highly efficient <a href=""https://www.coingecko.com/en?hashing_algorithm=Delegated+Proof-of-Stake&view=market"">Delegated Proof of Stake (DPoS)</a> consensus model, which is secured by democratically elected delegates.
+
+
+
+Lisk, headquartered in Zug, Switzerland, raised over 14,000 <a href=""https://www.coingecko.com/en/coins/bitcoin"">Bitcoins</a> in funding during its ICO (Initial Coin Offering), making it valued at over $4 billion at its peak.
+
+
+
+Lisk is an open source blockchain platform which is powered by Lisk (LSK) Tokens that allows developers code decentralized applications (dApps) in JavaScript programming language. With Lisk, developers can build applications on their sidechain linked to the Lisk Network, and also with their custom token. In that sense, Lisk is similar with the Ethereum blockchain. However, the Lisk platform hasn’t been built to create smart contracts, but to develop diverse apps and functionalities using the LISK AppSDK framework.
+
+
+
+It is a modular cryptocurrency as this coin involves ‘modules’ that serve as the basis of its design and construction. The overall design is its trump card - the Lisk system allows anyone to use its ‘designing blocks’ to construct their own decentralised apps. It utilises ""sidechains"". Besides, many former members of <a href=""https://www.coingecko.com/en/coins/ethereum"">Ethereum</a> core members joined Lisk. On June 8 2016, Lisk CEO Max Kordek announced the addition of Charles Hoskinson (ex-CEO of Ethereum) and Steven Nerayoff (ex-advisor for Ethereum) as Senior Advisors of Lisk, to facilitate Product Development.",https://lisk.com,228,45,0.008,-20.22133,,144818773.0
+
+dusk-network,dusk,DUSK Network,Proof of Stake,"['Smart Contract Platform', 'Privacy Coins']","Dusk Network is a high throughput permissionless blockchain aimed at providing privacy, programmability and auditability.
+
+Dusk Network is currently in the Testnet phase and is a blockchain protocol for easy deployment of programmable zero-knowledge dApps, thus becoming the backbone of an open, permissionless and global privacy-oriented dApp ecosystem.
+
+Dusk Network aims to remove technical barriers that have undermined mainstream issuance and trading of security tokens. Compliance, auditability and privacy are built into the open, permissionless Confidential Security Token-standard (XSC).",https://dusk.network/,299,46,0.016,-36.93355,500000000.0,389489793.726325
+
+matic-network,matic,Polygon,,"['Polygon Ecosystem', None, 'Binance Smart Chain Ecosystem', None, 'Smart Contract Platform']","Polygon (Previously Matic Network) is the first well-structured, easy-to-use platform for Ethereum scaling and infrastructure development. Its core component is Polygon SDK, a modular, flexible framework that supports building multiple types of applications.
+
+
+
+Using Polygon, one can create Optimistic Rollup chains, ZK Rollup chains, stand alone chains or any other kind of infra required by the developer. 
+
+
+
+Polygon effectively transforms Ethereum into a full-fledged multi-chain system (aka Internet of Blockchains). This multi-chain system is akin to other ones such as Polkadot, Cosmos, Avalanche etc with the advantages of Ethereum’s security, vibrant ecosystem and openness.
+
+
+
+Nothing will change for the existing ecosystem built on the Plasma-POS chain. With Polygon, new features are being built around the existing proven technology to expand the ability to cater to diverse needs from the developer ecosystem. Polygon will continue to develop the core technology so that it can scale to a larger ecosystem. 
+
+
+
+The $MATIC token will continue to exist and will play an increasingly important role, securing the system and enabling governance.",https://polygon.technology/,16,47,0.729,-27.83376,10000000000.0,6872890164.27
+
+klay-token,klay,Klaytn,,[],"Klaytn is a public blockchain focused on the metaverse, gamefi, and the creator economy. Officially launched in June 2019, it is the dominant blockchain platform in South Korea and is now undergoing global business expansion from its international base in Singapore.
+
+
+
+These business expansion activities are supported by the US$500m Klaytn Growth Fund, which aims to grow the ecosystem of companies built on Klaytn. The fund is managed and disbursed by Klaytn Foundation, a Singapore-based non-profit organization established in August 2021.
+
+
+
+To learn more, please visit <a href=""https://klaytn.foundation/"">https://klaytn.foundation</a>",https://www.klaytn.foundation,47,48,0.003,-17.18623,,2632131629.6
+
+acala,aca,Acala,,['Polkadot Ecosystem'],ACA is the utility token that powers the DeFi hub of Polkadot.,https://acala.network/,419,49,0.155,0.0,1000000000.0,69304481.0
+
+moonriver,movr,Moonriver,,"[None, 'Polkadot Ecosystem', 'Smart Contract Platform']","Moonriver is a fully Ethereum-compatible smart contract parachain on Kusama. Due to this Ethereum-like design and developer-friendly approach, Moonriver has attracted dozens of projects to build on it: https://moonbeam.network/community/projects/. It does this by providing a full EVM implementation, a Web3-compatible API, and bridges that connect Moonriver to existing Ethereum networks. This allows developers to deploy existing Solidity/Vyper smart contracts and DApp frontends to Moonriver with minimal changes.
+
+
+
+It is intended to be a companion network to Moonbeam (on Polkadot), where it will provide a permanently incentivized canary network. New code will ship to Moonriver first, where it can be tested and verified under real economic conditions. Once proven, the same code will ship to Moonbeam on Polkadot.",https://moonbeam.network/networks/moonriver/,222,50,0.167,-48.50338,10261578.0,3131811.0
+
+ontology,ont,Ontology,,"['Near Protocol Ecosystem', 'Binance Smart Chain Ecosystem', 'Polkadot Ecosystem', 'Smart Contract Platform']","Ontology is a new high-performance public blockchain project & a distributed trust collaboration platform.It provides new high-performance public blockchains that include a series of complete distributed ledgers and smart contract systems. Ontology is a blockchain framework supports public blockchain systems and is able to customize different public blockchains for different applications. It also supports collaboration amongst chain networks with its various protocol groups.They will constantly provide common modules on the underlying infrastructure for different kinds of distributed scenarios, such as those for the distributed digital identity framework, distributed data exchange protocol, and so on. 
+
+
+
+Ontology was created in 2017 by a Chinese company called OnChain, which is led by founders Erik Zhang and Da HongFei. OnChain has had huge success in the cryptocurrency industry, as they were also the founders behind the <a href=""https://www.coingecko.com/en/coins/neo"">NEO</a> blockchain, which is now a multi-billion dollar project. Essentially, Ontology was created as a way for businesses of all sizes to install blockchain technology within their company, without having to completely change all of their current systems.
+
+
+
+The purpose of the Ontology framework is that it is not intended to operate as a single blockchain. Instead, the technology will allow businesses to make full use of both a private and public blockchain. Each and every data transaction is confirmed in a decentralized environment, meaning that no single person or authority can take control of the network.",https://ont.io/,159,51,0.017,-14.14932,1000000000.0,875249524.0
+
+theta-token,theta,Theta Network,,"['Entertainment', 'Non-Fungible Tokens (NFT)']","Theta network is a decentralized video streaming network that is powered by blockchain technology. Theta allows users to watch video content and get rewarded with tokens as they share their internet bandwidth and computing resources on a peer-to-peer (P2P) basis. Besides a line-up of institutional investors like Node Capital and DHVC, Theta Network is advised by Steve Chen, co-founder of YouTube, and Justin Kan, co-founder of Twitch. The video streaming services on Theta rely on a distributed network of users who voluntarily contribute their spare bandwidth and computing resources to run Theta’s system, in return for Theta Fuel (TFuel) reward.
+
+
+
+Theta runs on a modified proof-of-stake consensus mechanism as it has a unique multi-Byzantine Fault Tolerance (BFT) which combines a committee of 20-30 Validator nodes with a second later of thousands of Guardian nodes. This acts to speed up approvals and is faster than traditional proof-of-work networks. Theta’s multi-BFT design achieves a healthy balance between consistency, speed, and decentralization.",https://www.thetatoken.org/,41,52,0.079,-6.92282,1000000000.0,1000000000.0
+
+ark,ark,Ark,Delegated Proof-of-Stake,['Cryptocurrency'],"ARK provides users, developers, and startups with innovative blockchain technologies. They aim to create an entire ecosystem of linked chains and a virtual spiderweb of endless use-cases that make ARK highly flexible, adaptable, and scalable. ARK is a secure platform designed for mass adoption and will deliver the services that consumers want and developers need. It is fast, decentralized, scalable, collaborative, bridging and open-source. The ARK Desktop Wallet is natively built for all major Operating Systems. ARK wallets connect to fully synced network peers removing the need to download the full blockchain.
+
+
+
+ARK operates using a <a href=""https://www.coingecko.com/en?hashing_algorithm=Delegated+Proof-of-Stake&view=market"">Delegated Proof-of-Stake (DPoS)</a> consensus algorithm. Unlike <a href=""https://www.coingecko.com/en/coins/bitcoin"">Bitcoin</a>, in which miners with expensive rigs secure network transactions, the ARK network is secured by delegates. There are hundreds of potential delegates, but token holders in the ARK ecosystem continuously vote on who actually gets to be an active, forging delegate. Only 51 delegates make the cut. As a token holder, you’re only allowed to vote for one delegate at a time. The fee to vote/unvote is just 1 ARK, so it’s advantageous to at least vote once for a delegate you support. The more ARK tokens you own, the more powerful your vote.
+
+
+
+ARK was launched in February of this year by 27 members spread across the world. With team members located everywhere from California to Bulgaria – the ARK Crew is truly decentralized. The team currently consists of 15 core members. The ARK infrastructure is modeled heavily on that of three older projects: <a href=""https://www.coingecko.com/en/coins/bitshares"">Bitshares</a>, Crypti, and <a href=""https://www.coingecko.com/en/coins/lisk"">Lisk</a>. In fact, some of the ARK developers were previously developers on some of those projects. Francois-Xavier (FX) Thoorens, the CTO, was a core developer at Lisk in 2016.
+
+
+
+Ark Community
+
+A diverse group of people and skill sets, including Full Stack and Web Developers, Network Engineers, Hardware Experts, Money Managers, Musicians, Traders, Social Media Promoters, and Business Owners, uniting to realize a vision shared by 30 members of the ARK Crew. All passionately devoted to collaboration and the development of the ARK ecosystem and community.
+
+
+
+Ark Token
+
+Secured by a cryptographic blockchain network similar to Lisk and Crypti, running on a Delegated Proof of Stake Consensus Algorithm developed by Bitshares. ARK DPoS provides a newly adapted voting system and incorporates many improvements over previous DPoS implementations.
+
+
+
+<a href=""https://blog.ark.io/what-is-the-ark-smartbridge-and-how-does-it-work-1dd7fb1e17a0"">SmartBridge</a>
+
+To increase the reach of the ARK platform, ARK bridges together useful and proprietary blockchains through the use of ARK SmartBridges. These SmartBridges allow for communication among validated bridged blockchains with the ability to perform tasks and advanced functions. Through the use of SmartBridges, the ARK Crew is able to connect many popular blockchains and finally create a unifying bond among different ecosystems. As examples, the first blockchains the ARK Crew will bridge are: Bitcoin, Ethereum, Lisk, 3rd Party Anonymous Network Integration, one or more proprietary gaming economy tokens (Codename: A***** [Ticker: A***]), and numerous other bridges connecting new and already existing blockchains in the future. 
+
+
+
+Security
+
+Because we understand security is a major point of concern for everyone, cryptographic and security principals are incorporated throughout the entire Development Life Cycle to guarantee a secure core meeting the requirements and expectations of our users. Through continuous risk analysis and internal recurring penetration testing, we provide a system that fulfills the high standards required by this type of environment. 
+
+
+
+Privacy
+
+ARK Anonymous Network Integration provides ARK users with optional privacy when sending ARK transactions throughout all of the services developed for the ARK platform. Anonymization services could be potentially provided by a 3rd Party technology integration Partnership.
+
+
+
+Self-Sustaining
+
+The ARK Crew has a mission to make blockchain technology easily accessible to consumers​, even to the point where consumers do not know that they are using it. We not only develop the tools bridging the virtual with reality, but also provide the unique services consumers want, understand, and are willing to purchase using ARK. The ARK Crew develops additional platforms and services benefiting from the ARK technology, providing online and offline revenue streams for the ARK Platform, and leading to faster research and development of new and exciting ways to encourage consumer participation, educating them about blockchain technology, while simultaneously adding value to the ARK coin. By incorporating revenue streams into our projects, the ARK Crew can provide even more unique services for user adoption as we grow.",https://ark.io/,339,53,0.018,-20.24725,,163183200.0
+
+ravencoin,rvn,Ravencoin,x16r,['Cryptocurrency'],"Ravencoin is a blockchain specifically dedicated to the creation and peer-to-peer transfer of assets. Just as <a href=""https://www.coingecko.com/en/coins/monero"">Monero</a> is solely focused on privacy, Ravencoin specializes in asset transfer – nothing more, nothing less. Although you can exchange assets over other blockchains, like <a href=""https://www.coingecko.com/en/coins/bitcoin"">Bitcoin</a> and <a href=""https://www.coingecko.com/en/coins/ethereum"">Ethereum</a>, that’s not their intended purpose. And the lack of specialization leads to problems that are specific to transferring assets. Ravencoin enables you to create and trade any real-world (e.g., gold bars, land deeds) or digital (e.g., gaming items, software licenses) assets on a network with only that in mind.
+
+
+
+Ravencoin doesn’t have an established team. It’s an open-source project led by the core developers: RavoncoinDev, Tron, and Chatturga (discord usernames). Bruce Fenton, Board Member of The Bitcoin Foundation, advises the team. The core developers launched Ravencoin on January 3rd, 2018 and Fenton kicked off the launch with a Tweet announcing the start of mining. The project gained some notoriety when Overstock CEO Patrick Byrne announced that his company had made a multi-million dollar investment into the team. Since then, the team has been building out the core functionality of asset support and rewards capabilities.
+
+
+
+The release of the Ravencoin mainnet and increase in activity on the platform should help the price. Any news of notable companies or financial institutions utilizing the platform should also have a positive effect. Ravencoin offers just one thing: tokenized asset transfer. And that singular focus isn’t a bad thing. When projects attempt to solve a bunch of problems at once, they often create a bunch of half-baked solutions. Ravencoin is avoiding that. As a young project with seemingly endless competition, it’s difficult to predict how successful Ravencoin will be. An active community and backing from one of the most respected names in online retail are positive indicators, though. There’s a clear trend toward the tokenization of all types of assets. However, we have yet to see whether or not Ravencoin will be leading that change.",https://ravencoin.org/,120,54,0.034,-33.76361,21000000000.0,10473290000.0
+
+0x,zrx,0x,,"['Decentralized Exchange Token (DEX)', 'Polygon Ecosystem', 'Protocol', 'Polkadot Ecosystem', 'Decentralized Finance (DeFi)', 'Governance']",,https://0x.org/,151,55,0.032,-16.77506,1000000000.0,847496054.8122635
+
+enjincoin,enj,Enjin Coin,,"['Metaverse', 'Entertainment', 'Non-Fungible Tokens (NFT)', 'Gaming']","Enjin Coin is a cryptocurrency for virtual goods created by Enjin. Enjin is the “largest gaming community platform online” with over 250,000 gaming communities and 18.7 million registered gamers. The Enjin team is designing the coin completely around gaming with the goal of it being the most usable cryptocurrency for the industry. The project includes the Enjin Coin as well as a suite of software development kits (SDKs) that developers can integrate into their games and communities. Bringing blockchain to gaming helps to reduce the high fees and fraud that’s prevalent in the transfer of virtual goods.
+
+
+
+Enjin Coin is an ERC20 token built on the <a href=""https://www.coingecko.com/en/coins/ethereum"">Ethereum</a> network. With that, the project not only acts as a cryptocurrency but also has smart contract capabilities. It’s also one of the first projects testing the <a href=""https://www.coingecko.com/en/coins/raiden-network"">Raiden Network</a>, Ethereum’s version of the Lightning Network. The Enjin Coin platform provides a laundry list of features through its public API and SDKs. To keep things brief, though, we’ll only be discussing a few of the major ones in this article. The largest value Enjin Coin brings to the gaming community is in its creation and management of virtual goods. Developers on each platform can easily create a currency unique to their community that’s backed by Enjin Coin as the parent currency. This gives the coins all the benefits of the blockchain (speed, cost, security, etc…) while still staying customized to their respective platforms.
+
+
+
+Enjin, the company behind Enjin Coin, is the largest online gaming community creation platform. Started in 2009, the company receives 60 million views per month and transacts millions of U.S. dollars each month in their community stores. The team is deploying Enjin Coin across the entire Enjin CMS platform – over 250,000 gaming websites. Advisors to the project consist of Anthony Diiorio (Ethereum co-founder) and Pat LaBine (previous producer and technical director at Bioware). Enjin has also formed partnerships with Unity, PC Gamer, and NRG eSports. The team held a successful ICO in late 2017 in which they raised ~$35 million between the private and public rounds. Although it’s still a young project, the team spent the last quarter of 2017 building the Platform API, Mobile Smart Wallet, and a Java SDK alongside creating a Minecraft plugin. They’ve got plenty in store for 2018, but the highlights include various platform plugins, the Efinity release, and numerous other SDKs.
+
+
+
+Enjin also features a tool known as TopLists, which allow users to rank games, servers, teams and any other item. TopLists will be deployed as a decentralized smart contract with functionalities that will allow for market bidding or democratic voting. List creators are incentivized to promote and market their list because these creators will receive tokens when users perform tasks such as voting on their list. Enjin Coin is an ambitious project that aims to integrate online virtual gaming with decentralized technologies. Enjin Coin project promises a lot, and it is only with the passage of time that we will able to see if it can deliver on those promises.",https://enjin.io/,70,56,0.158,-27.08866,1000000000.0,934340659.567558
+
+usd-coin,usdc,USD Coin,,"[None, 'Near Protocol Ecosystem', 'Fantom Ecosystem', 'Arbitrum Ecosystem', None, 'Avalanche Ecosystem', 'Binance Smart Chain Ecosystem', 'Polygon Ecosystem', 'xDAI Ecosystem', 'USD Stablecoin', 'Stablecoins']","USDC is a fully collateralized US dollar stablecoin. USDC is the bridge between dollars and trading on cryptocurrency exchanges. The technology behind CENTRE makes it possible to exchange value between people, businesses and financial institutions just like email between mail services and texts between SMS providers. We believe by removing artificial economic borders, we can create a more inclusive global economy. ",https://www.circle.com/en/usdc,5,57,0.086,-0.04162,52323864672.0385,52327782062.5976
+
+holotoken,hot,Holo,,"['Storage', 'Smart Contract Platform']","Holochain enables a distributed web with user autonomy built directly into its architecture and protocols. Data is about remembering our lived and shared experiences. Distributing the storage and processing of that data can change how we coordinate and interact. With digital integration under user control, Holochain liberates our online lives from corporate control over our choices and information.
+
+
+
+Holochain is an energy efficient post-blockchain ledger system and decentralized application platform that uses peer-to-peer networking for processing agent centric agreement and consensus systems between users.
+
+
+
+Holochain enables any device to have its own chain based ledger system. By using a holographic model for data storage and transfer developers can now create decentralized applications that can scale in multiple dimensions across a network ensuring they are truly distributed. This enables every device on a network to function independently, and only requires the synchronization of data when necessary, or agreed upon by users. This means every user is in control of their own data, and never has to risk their data being sold or exposed to 3rd parties like what just happened with Facebook and Cambridge Analytica.
+
+
+
+Holochain provides a framework for developers to build decentralized applications and aims to change the paradigm of data-centric blockchains to an agent-centric system. In Holochain’s fledgling system, no true global consensus is maintained. Instead, each agent in the public blockchain maintains a private fork, essentially, that is managed and stored in a limited way on the public blockchain with a distributed hash table. This means there are no scalability limits and dapps hosted on Holochain can do much more with less of nearly everything than traditional blockchains.
+
+
+
+This system however has some inherent weaknesses. Because the entire blockchain must be verified by each member of the network, scalability problems quickly develop. The larger the amount of data being handled, the more restrictive the limit of transactions per second that can occur on the blockchain at any one time.Holochain itself is open source and written in Go. Go was selected for its ease of use and similarity to C. Dapps written specifically for Holochain can be developed with JavaScript or Lisp, with support for front-end systems using CSS, HTML, and JavaScript.
+
+
+
+The developers added that Holochain is relatively flexible when it comes to handling new languages, so there is potential for growth on that front. Holochain bills itself as an environmentally friendly alternative to traditional blockchains. Because there is no need for each individual agent to store and validate the global blockchain, Holochain only consumes a fraction of the bandwidth of traditional chains. Holochain also does not have a mining component, so there’s no electricity or processing power spent on proof-of-work calculations.
+
+
+
+Arthur Brock and Eric Harris-Braun are the co-founders of Holochain and creators of Holochain. They have been designing alternatives currencies since the 80’s and have been working on Holu since before the <a href=""https://www.coingecko.com/en/coins/bitcoin"">Bitcoin</a> whitepaper was written. To protect the incentives of users, founders and developers, Holochain is owned by a non-profit foundation. he company’s advisory team also includes Ryan Bubinski, the co-founder of CodeAcademy. In June, Holochain announced a new strategic partnership with Promether, an Adaptive Symbiotic Platform (ASP) that implements all the networking, security and anonymization code applications need to protect their data.",https://holo.host/,109,58,0.013,-23.93067,177619433541.141,177619433541.141
+
+nusd,susd,sUSD,,"['USD Stablecoin', 'Synths', 'Decentralized Finance (DeFi)', 'Stablecoins', 'Asset-backed Tokens']","sUSD, or synthetic USD, is a synthetic asset launched by Synthetix Exchange. sUSD mirrors and tracks the price of USD provided by an oracle - Chainlink.",https://synthetix.io,388,59,0.044,-0.00407,117873356.470641,117875667.288476
+
+verge,xvg,Verge,Scrypt,['Privacy Coins'],"Verge coin started its cryptocurrency journey in 2014, going by the name of DogecoinDark. The reason it was created was to create a truly private cryptocurrency. The founder of Verge felt that <a href=""https://www.coingecko.com/en/coins/bitcoin"">Bitcoin</a> wasn’t anonymous, so he decided to build a new blockchain where transactions could not be traced. Verge uses multiple anonymity-centric networks such as TOR and I2P. The IP addresses of the users are fully obfuscated. The Core QT wallet has built-in TOR integration as well as SSL encryption which adds an extra level of security.
+
+
+
+Verge is an open source project with an active team of developers from all over the world. The development team is always in close contact with the community. Verge is not a private company funded through an ICO or premining. Wraith Protocol is a technology upgrade package that enables our users to be able to send and receive payments privately across our blockchain by enabling stealth addressing services.   Additionally this update removes our QT wallet users off of clearnet and migrates everyone to SSL enabled Tor.
+
+
+
+Verge focuses on security and maintaining user anonymity just like <a href=""https://www.coingecko.com/en/coins/monero"">Monero</a>; so that is its latent upside. Many investors are also applauding its unique technology. Having been improved and integrated with the Wraith Protocol technology, verge users are now able to effortlessly switch between private and public ledgers on the Verge blockchain.
+
+
+
+Before this, private and public ledgers were mutually selected, meaning that they could not co-exist on a very similar blockchain. But investors are today free to use whatever ledger they want. A good example was when Wraith Protocol switched ON – one will not be able to view the transaction data, not even via the blockchain explorer. Additionally, Verge makes obscure the IP addresses in both instances. When coupled with Wraith Protocol Verge certainly becomes the only undetectable cryptocurrency.
+
+
+
+Furthermore, transaction speed on Verge is light speed at 5 seconds only, using Simple Payment Verification technology. Verge also maintains a community feel since it’s not a private company. Community members are responsible for the direction of its technology and where the coin heads next. It currently offers a number of secure mobile wallets, including the Tor Android Wallet, which offers mobile anonymity, another big plus over Bitcoin.
+
+
+
+Verges offers five different Proof-of-Work algorithms for mining. They include; Lyra2rev2, <a href=""https://www.coingecko.com/en?hashing_algorithm=Scrypt&view=market"">Scrypt</a>, X17, blake2s and myr-groestl. Offering a choice of five different algorithms promotes inclusion, since a wider variety of users will now have an opportunity to not only mine but influence the network. Should one algorithm demand greater mining resources, users get an option of just switching to a different one.",http://vergecurrency.com/,285,60,0.012,-20.84158,16555000000.0,16496581837.8336
+
+omisego,omg,OMG Network,,['Smart Contract Platform'],The OMG Network is the value transfer network for ETH and ERC20 tokens.,https://omg.network/,127,61,0.015,-18.70493,140245398.245133,140245398.245133
+
+augur,rep,Augur,,"['Prediction Markets', 'Polygon Ecosystem', 'Protocol', 'Decentralized Finance (DeFi)']","Augur is a trustless, decentralized platform for prediction markets. Augur is an <a href=""https://www.coingecko.com/en/coins/ethereum"">Ethereum</a>-based decentralized prediction market that leverages the wisdom of the crowds to create a search engine for the future that runs on its own token, REP. Augur allows users to create their markets for specific questions they may have and to profit from the trading buys while allowing users to buy positive or negative shares regarding the outcome of a future event.
+
+
+
+Prediction markets are markets created to trade the probability of an event happening. The market prices indicate what the crowd thinks the probability of an event happening. Predictive markets have shown to have been effective in accurately forecasting many results however it is still not widely used due to the many regulatory hurdles involved in setting up such a market. Augur aims to set up such a market in a decentralized manner.
+
+
+
+Augur is an Ethereum-based decentralized prediction market that leverages the wisdom of the crowds to create a search engine for the future that runs on its own token, REP. Augur allows users to create their markets for specific questions they may have and to profit from the trading buys while allowing users to buy positive or negative shares regarding the outcome of a future event. Augur REP is the gambling cryptocurrency. It’s the crypto token you can use to bet on sporting events, political  outcomes, economies and just about everything else in the prediction markets. Online gambling is a $52 billion a year industry.
+
+
+
+At its founding the project included Intrade founder Ron Bernstein, Robin Hanson, and Ethereum founder Vitalik Buterin among its advisers. In April 2015, Augur's first contract was uploaded to the Ethereum network.The first beta version was released in March 2016. In October 2016, all the reputation tokens that were for sale during the 2015 crowdfunding campaign were distributed to their owners on the live Ethereum network and the two largest cryptocurrency exchanges, <a href=""https://www.coingecko.com/en/exchanges/poloniex"">Poloniex</a> and <a href=""https://www.coingecko.com/en/exchanges/kraken"">Kraken</a>, added support for these tokens on their trading platforms. The project was delayed until it was launched in July 2018.",http://www.augur.net/,425,62,0.01,-16.58685,6949166.74663993,6949166.74663993
+
+vethor-token,vtho,VeThor Token,,[],"VeChain is also a dual token system consisting of <a href=""https://www.coingecko.com/en/coins/vechain"">VeChain Token (VET)</a> and VeThor Token (THOR). Network users are rewarded with the latter when they hold the former, which is also the case with <a href=""https://www.coingecko.com/en/coins/neo"">NEO</a> & <a href=""https://www.coingecko.com/en/coins/gas"">GAS</a>. The VeChain Token can be used to deploy applications on the platform where as VeThor can be used to pay for applications and other transactions over the network. VeChain claims that this economic model is better suited for enterprises than the one in other blockchains, such as <a href=""https://www.coingecko.com/en/coins/ethereum"">Ethereum</a> and <a href=""https://www.coingecko.com/en/coins/bitcoin"">Bitcoin</a>, where higher usage drives the cost of the utility token and subsequently the cost of deploying and operations in the protocol.
+
+
+
+In an official blog post earlier this year, the foundation announced it’s “grand aspirations to make financial services sector one of the main focuses on our development plan”. They also announced their partnership with a property mortgage loan provider Fanghuwang.com, a subsidiary of Beijing Baisheng Technology Co., Ltd. They also reported partnerships with BMW, Groupe Renault, and DNV GL.
+
+Until now, VeChain has existed in the form of an ERC-20 token on the Ethereum blockchain. In an announcement detailing the roadmap moving forward, the foundation stated that they would engage in negotiations with exchanges to perform the token swap to become an independent network. The roadmap also detailed plans to launch a mobile wallet and ledger integration.",https://www.vechain.org/,312,63,0.056,-31.73659,,45560941261.0
+
+compound-ether,ceth,cETH,,"['Finance / Banking', 'Decentralized Finance (DeFi)', 'Compound Tokens', 'Asset-backed Tokens']",Compound protocol balance token,https://compound.finance/,46,64,0.078,-12.1646,53007764.9228605,53012456.6459372
+
+aelf,elf,aelf,,['Infrastructure'],"Aelf is the versatile business blockchain platform powered by cloud computing and the central nervous system for businesses, transforming the way they deliver their services. By laying out the fundamental blockchain infrastructure, Aelf enables businesses to focus on building up their own dapps on their own chains with minimum effort. Acting as the master key, Aelf unlocks the potential for inter-business communication and collaboration using cross-chain efficiency. Incorporating modern technologies such as cloud nodes and parallel processing, Aelf is the blockchain system that achieves secure transactions at commercial scale.
+
+
+
+Aelf is one of the cryptocurrencies that is attracting crypto enthusiasts following its massive commercial adoption initiative. The coin seems to be leading on the technology front with higher blockchain efficiency, which is why it's also anticipated to be the Linux of Blockchains. aelf is an operating system for blockchains which can be customized by their respective users. Its cryptocurrency is denoted by the symbol ELF, with a total supply of 250 million ELF. It was launched on 21 December, 2017 on multiple exchanges in China without any ICO and instead got private investors on board. This ensured better compliance as KYC was done for all investors with most of them being accredited, with a good track record in token investment.
+
+
+
+Aelf was developed by Ma Haobao, who is also the CEO of Hoopox. The team is backed by a strong advisory board which includes Michael Arrington (CEO of TechCrunch and founding partner of FGB Capital). The team says it is working on unleashing the blockchain’s potential into mass applications and industries. aelf is now working with Innovation Alliance for increasing the acceptability of blockchain technology which will ultimately increase adoption of aelf’s blockchain. The team is focussed to develop aelf to improve other chains in the ecosystem by providing a template and infrastructure for interaction between the sidechains.
+
+
+
+Aelf also has a rewards system – Candy. With the Candy rewards system, you earn points, convertible for ELF, by accomplishing simple, daily tasks. Tasks include liking and replying to aelf tweets, inviting people to the Telegram channel, and other promotional activities. ELF are currently ERC20 tokens. As such, you can store them in any wallet with ERC20 support like MyEtherWallet or Exodus. The Ledger Nano S is also a great option if you’re interested in additional security. 
+
+
+
+Aelf is a relatively new competitor in the dapp platform race but already has solid support from large investment capital firms. The project is utilizing resource separation through side chains and a unique governance model to build an entire blockchain operating system.",http://aelf.io/,329,65,0.014,-18.67269,879999999.986466,461329999.0
+
+aragon,ant,Aragon,,"['Cosmos Ecosystem', 'Software', 'Governance']","Aragon is a decentralized app (dApp) on the <a href=""https://www.coingecko.com/en/coins/ethereum"">Ethereum</a> blockchain that allows anyone to create and manage a decentralized organization. The Aragon project is open source and led by the Aragon Foundation. It also includes a token, ANT, that grants voting rights to make decisions about the direction of future development. Eventually, Aragon hopes to be a fully decentralized autonomous organization and dApp that’s a neutral jurisdiction for anyone to create an organization on the blockchain. 
+
+
+
+In the early days of development, the project is relying on the nonprofit Aragon Foundation to provide direction and support as the project gets off the ground. The idea, however, is to eventually dissolve, scale back, or change the nature of the Foundation as community support grows. In the future, Aragon will be entirely decentralized and community led. Holders of the ANT token will have voting rights on all issues concerning Aragon. Aragon is an open source, non-profit project. It has many contributors. It also doesn’t technically have a CEO or CTO. Instead, it has a project lead. But don’t get it twisted, the lead is essentially the CEO. uis Cuende is leading the project. In 2011, he received a “Best Underage European Programmer” award, and he’s a recipient of Forbes’ 30 under 30 recognition. He’s a young guy, but with leadership and technical chops. He has advised the Vice President of the European Commission and is an MIT Innovators Under 35 awardee. He has founded several startups and created the first Linux distribution with face login.
+
+
+
+Aragon offers several core features. It has a module for identity management and closely related modules for ownership and access control. Other modules include shareholder voting, fundraising through token generation, HR onboarding and payroll, and accounts payable/receivable. Taken together, the core functionality of Aragon covers the critical aspects of accounting, governance, and identity that make modern companies work. As you can see, these modules make up most of the administrative functions that a modern company or organization requires. It’s important to emphasize that these modules can individually be turned on and off, providing instant customization for the company’s needs. In addition, all of the code behind Aragon is open source. A company’s development team could edit them as needed to fulfill the company’s requirements. 
+
+
+
+The modular design of Aragon doesn’t stop with the core modules that come standard. Just as companies can edit existing modules, they’re free to develop completely new models as well. They can also develop atop the data and structures of existing models for extended functionality. The modular nature of Aragon, combined with its open source ethos, means we could see a whole ecosystem of free to use modules that extend capacity for organizations on Aragon. Aragon explicitly has the goal of creating a digital jurisdiction. Just like countries have jurisdiction over their citizens when it comes to courts of law, Aragon wants to create the first digital court of law. This court wouldn’t operate based on country boundaries. Instead, it would help enforce digital contracts between organizations on the Aragon platform.
+
+
+
+The ANT token is the native token of Aragon and plays a critical role in the governance model and incentive structure of the platform. It represents the wealth of the decentralized economy and was initially sold during Aragon’s highly successful ICO in May 2017 that raised $24 million. Subsequently, the ANT token has come to represent a powerful share of the governance on the platform. ANT holders can vote on proposals, participate in arbitration and the decentralized court system, and help contribute to the non-profit Aragon Foundation or to research and development through the Aragon Nest program.",https://aragon.org/,251,66,0.06,-33.93723,43029960.4176359,38063127.35159664
+
+iostoken,iost,IOST,,[],"IOST is building an ultra-high TPS blockchain infrastructure to meet the security and scalability needs of a decentralized economy. Led by a team of proven founders and backed by $40 million from world-class investors, including Sequoia and Matrix, IOST aims to be the underlying architecture for the future of online services.
+
+
+
+The powerful consensus algorithm “Proof-of-Believability” enables next-gen transaction throughput speeds while ensuring nodes stay compliant, using factors including IOST token balance, reputation-based token balance, network contributions and user behaviors. A faster grade Byzantine Fault Tolerance mechanism, microstate blocks, Atomic Commit protocol and a dynamic sharding protocol (Efficient Distributed Sharding) all ensure transactions are safeguarded, consistent and lightning fast while reducing storage, configuration costs and processing power for validators. 
+
+
+
+Anyone is able to participate in every layer of our system, from using services on our blockchain to running a node and validating transactions. Our rules and code are open for all to see and no preconditions will limit participation. IOST aims to fundamentally disrupt previous methods of business by creating a self-operated, trustless network that maximizes network value for all parties. The project places great emphasis on decentralized and secure ways of storing information. It also provides for Dapps and smart contracts, and anyone who is familiar with blockchain technology knows just how integral these two concepts have become.
+
+
+
+Adhering to the quintessential egalitarian values of blockchain technology, IOST is creating a censorship-resistant and trustless network that is open to all, using blockchain technology to cut out middlemen and maximize network value for all parties. 
+
+
+
+Terrace Wang, Kimmy Zhong, and Ray Xiao, who are extremely brilliant, have co-founded the project. In addition to these original three, the project has 12 employees and 4 advisors. It is also worth noting that Ryan Bubiski, a co-founder of CodeAcademy and a winner of Times Most Influential People award plays a major role in the advisory board of the project. The team has partnered with about sixteen blockchain and cryptocurrency oriented companies such as Sequoia, Nirvana Capital, and DFund. The project, therefore, has strong investors.""",http://iost.io/,135,67,0.008,-11.14155,23030325573.3928,23030325573.3928
+
+api3,api3,API3,,"['Number', 'Polygon Ecosystem', 'Near Protocol Ecosystem', 'Decentralized Finance (DeFi)', 'Oracle', None]","API3 builds blockchain-native, decentralized APIs with DAO-governance and quantifiable security.",https://api3.org/,288,68,0.016,6.28305,110749913.248637,47780735.0343876
+
+nem,xem,NEM,Proof of Importance,[],"NEM was a blockchain platform launched in March of 2015. At the time it was one of the pioneers of the industry and sought to improve on the imperfections found on other chains at the time. It was one of the first non-turing complete chains to feature user-defined tokens (called mosaics), namespaces, multisignature accounts, and a P2P reputation system based on EigenTrust++. Its most notable contribution, however, was the PoI consensus mechanism which sought to reward on-chain activity and deter the concentration of wealth commonly associated with proof-of-stake. Its client, NIS, is written in Java. Today, NEM remains a highly-traded cryptocurrency. Current development is centered around NEM's merge with another blockchain platform: Symbol.",https://nem.io/,100,69,0.003,-8.25131,8999999999.0,8999999999.0
+
+polymath,poly,Polymath,,['Finance / Banking'],"Polymath provides technology to create, issue, and manage security tokens on the blockchain. Over 200 security tokens have been deployed using their Ethereum-based solution and they are now in the midst of launching Polymesh, an institutional-grade blockchain built specifically for regulated assets. Polymath streamlines antiquated processes and opens the door to new financial instruments by solving the inherent challenges with public infrastructure around identity, compliance, confidentiality, and governance. 
+
+
+
+Recognizing that the industry lacked security-specific standards, Polymath spearheaded the creation of a unified standard for security tokens on Ethereum, ERC 1400. ERC 1400 acts as an umbrella of standards and is designed to address some of the challenges in managing security tokens by enabling the ability to conserve UBO rights for custodied assets, and automate transfer control (including KYC verification) and corporate actions (including capital distribution or voting). 
+
+
+
+Polymath has brought forward many advanced innovations that address regulatory and market needs head-on. They have built a series of tools on the chain that offer non-technical users an intuitive means to access the chain’s functionality, and are also in the midst of launching Polymesh, an institutional-grade blockchain built for security tokens and the first specialized chain of this nature. Security tokens have the ability to alter the financial landscape, unlocking trillions of dollars in asset value and investment, programmably automating operations, and driving new paths to liquidity - but there are significant barriers standing in the way of institutional adoption. The foundations of Polymesh are focused on the most crucial regulatory elements addressed by four key design principles meant to meet the demands of regulators and institutions. Those four principles are Identity, Compliance, Confidentiality, and Governance. When put together, these four pillars can also support complex operations, such as settlement. 
+
+
+
+When it comes to creating and managing digital securities, Polymesh’s specificity gives it, and the applications built on it, a distinct advantage over those leveraging general-purpose blockchains. The purpose-built infrastructure addresses the gaps in standard blockchain architecture to align the functioning of the blockchain with the requirements of modern capital markets. By combining Polymesh’s deep functionality with user-friendly tools, Polymath stands to transform capital markets.
+
+
+
+All transactions on the Polymath platform take place using the native POLY token. POLY is the utility token that fuels Polymath Token Studio on Ethereum and is used by issuers creating and managing security tokens on the platform. ",https://www.polymath.network/,177,71,0.013,-12.49332,1000000000.0,898550829.6745886
+
+icon,icx,ICON,,"['Near Protocol Ecosystem', 'Smart Contract Platform']","ICON is a blockchain technology and network framework designed to allow independent blockchains to interact with each other. ICON is supported through a cryptocurrency token, called ICX. ICON is a South Korean-based company that developed a blockchain technology and accompanying cryptocurrency token called ICX. The company bills itself as an interconnected blockchain network, allowing participants in a decentralized system to “converge” at a central point.
+
+
+
+This is done by connecting a community to other communities through ICON Republic and Citizen Nodes. While blockchains are most commonly associated with cryptocurrencies, enthusiasts point out other areas where the technology can be applied. Any exchange of information can technically be added to a blockchain, though adding some types may not be cost-effective. Transactions involving securities, currencies, business contracts, deeds and loans, intellectual property, and personal identification could be “tokenized.
+
+
+
+ICON’s blockchain is more like the Plasma or <a href=""https://www.coingecko.com/en/coins/ontology"">Ontology</a> blockchain in that its purpose is to act as an intermediary between other blockchains and networks. This interconnectability makes the ICON project worth keeping an eye on over the next decade.
+
+
+
+ICON sports its very own decentralized exchange. This DEX sets currency reserves for each blockchain community so that ICON communities can exchange value in real time through the ICON Republic.  In this way, DEX complements C-Rep portals by establishing another gateway for ICON Communities to connect to the ICON Republic.",https://iconrepublic.org/,141,72,0.007,-26.35974,800460000.0,714790796.748824
+
+keep-network,keep,Keep Network,,"['Protocol', 'Decentralized Finance (DeFi)', 'Privacy Coins']","A keep is an off-chain container for private data. Keeps help contracts harness the full power of the public blockchain — enabling deep interactivity with private data.
+
+
+
+Keep Network aims to provide an off-chain “containers” — called keeps — that should keep private data safe from the public blockchain, thereby enabling smart contracts to maximize the full potential of blockchain tech without compromising on transparency or privacy. Keeps will be used to encrypt and store private data, and the keeps are to be protected by secure multi-party computation (sMPC) that allows generating, storing, encrypting and transmitting of data among different users.",https://keep.network/,190,73,0.012,-1.89312,1000000000.0,549716300.2685891
+
+zencash,zen,Horizen,Equihash,"['Masternodes', 'Privacy Coins']","Horizen is a zero-knowledge-enabled network of blockchains powered by the largest node infrastructure in the industry. Blockchain interoperability is enabled by the Zendoo protocol, which uses SNARK-verification and allows for complete flexibility in sidechain type, consensus, speed, and privacy. Cryptographic verification of networked chains offers massive scale, and the network currently supports up to 10,000 sidechains with a throughput limit of 10,000,000 TPS.
+
+
+
+Zendoo makes Horizen a permissionless network of blockchains. Developers can deploy their blockchains within the ecosystem using a variety of SDKs. The first set of SDKs, Blaze and Latus, deploy blockchains based on IOHK's provably secure Ouroboros proof-of-stake protocol. Blaze offers high-speed chains that declare their own certifiers and can run up to 1,000 TPS, while Latus uses a recursive SNARK composition for full decentralization. The next set of SDKs will include EVM integration for Ethereum smart contract compatibility.
+
+
+
+Horizen's native cryptocurrency, ZEN, is a mineable PoW coin currently trading on major exchanges, including Coinbase, Bittrex, and Binance. ZEN can be staked to participate in Horizen's nearly 50,000 full node network. ",https://horizen.global,156,74,0.002,-29.89651,21000000.0,12059087.5
+
+livepeer,lpt,Livepeer,Ethash,[],"The Livepeer project aims to deliver a live video streaming network protocol that is fully decentralized, highly scalable, crypto token incentivized, and results in a solution which can serve as the live media layer in the decentralized development (web3) stack. In addition, Livepeer is meant to provide an economically efficient alternative to centralized broadcasting solutions for any existing broadcaster. In this document we describe the Livepeer Protocol - a delegated stake based protocol for incentivizing participants in a live video broadcast network in a game-theoretically secure way. We present solutions for the scalable verification of decentralized work, as well as the prevention of useless work in an attempt to game the token allocations in an inflationary system.
+
+
+
+The Livepeer Token (LPT) is the protocol token of the Livepeer network. But it is not the medium of exchange token. Broadcasters use Ethereum's Ether (ETH) to broadcast video on the network. Nodes who contribute processing and bandwidth earn ETH in the form of fees from broadcasters. LPT is a staking token that participants who want to perform work on the network stake in order to coordinate how work gets distributed on the network, and to provide security that the work will get done honestly and correctly. LPT has the following purposes:
+
+
+
+It serves as a bonding mechanism in a delegated proof of stake system, in which stake is delegated towards transcoders (or validators) who participate in the protocol to transcode video and validate work. The token, and potential slashing that occurs due to protocol violation, is necessary in order to secure the network against a number of attacks. More below.
+
+It routes work through the network in proportion to the amount of staked and delegated token, essentially serving as a coordination mechanism.
+
+
+
+It is a unit of account that is specific to the Livepeer ecosystem, which forms the basis of a SectorCoin concept, applicable to additional functionality to be introduced in the future. Services such as DVR, closed captioning, ad insertion/monetization, and analytics can all plug into the Livepeer ecosystem and potentially make use of the security provided by staking LPT.
+
+
+
+An initial allocation of Livepeer Token will be distributed so that stakeholders can fulfill various roles in, and use the network, and then additional token will be issued according to algorithmically programmed issuance over time.
+
+
+
+Following the conventions of Ethereum and many popular ERC20 tokens, LPT will be divisible by 10 ^ 18, with larger denominations such as the LPT itself intended to be used for user level transactions such as staking, and smaller denominations intended to be used for protocol accounting.",https://livepeer.org/,119,75,0.032,-25.97194,24908098.9902253,24908098.9902253
+
+decred,dcr,Decred,Blake-256,"['Cryptocurrency', 'Governance', 'Privacy Coins']","Decred aims to build a community-directed digital currency whose security, adaptability, and sustainability make it a superior long-term store of value. It is achieving this aim by building the world's first truly decentralized autonomous organization.",https://www.decred.org/,108,76,0.027,5.52961,21000000.0,13760601.4942593
+
+aave,aave,Aave,,"['Avalanche Ecosystem', 'Polygon Ecosystem', 'Near Protocol Ecosystem', 'Lending/Borrowing', 'Governance', 'Yield Farming', 'Decentralized Finance (DeFi)']","Aave is a decentralized money market protocol where users can lend and borrow cryptocurrency across 20 different assets as collateral. The protocol has a native token called AAVE, which is also a governance token that lets the community decide the direction of the protocol in a collective manner. Lenders can earn interest by providing liquidity to the market, while borrowers can borrow by collateralizing their cryptoassets to take out loans from the liquidity pools.
+
+
+
+",https://app.aave.com/?referral=93,61,77,0.148,-23.96193,16000000.0,13513959.249283873
+
+steem,steem,Steem,Delegated Proof-of-Stake,['Cryptocurrency'],"Steem is a cryptocurrency that rewards users for community building by posting and upvoting valuable content for others. Steem was inspired from the success of Reddit where the community helped enrich the shareholders. Steem aims to help distribute the rewards to the community members who help create the community in the first place. Steem aims to provide various services to its members such as a source of curated news, Q&A, job boards etc. The founders of Steem came from <a href=""https://www.coingecko.com/en/coins/bitshares"">BitShares</a> with Dan Larimer involved as well.
+
+
+
+Steem’s main platform, called Steemit, is a social media network built on top of the Steem blockchain. Steemit is similar to popular content-driven social networks like Reddit and Medium, but it rewards users with cryptocurrency for their participation. Fundamentally, the more value a particular piece of content provides to a greater number of people, the more the individuals responsible for creating and curating that content can earn.
+
+
+
+Users cast votes, creating a hierarchy of content. The more upvotes a post gets, the more it will earn. The platform also allows for downvotes, giving participants more flexibility when it comes to rating content. Steemit is meritocratic, meaning users that hold more currency can cast votes with greater influence.
+
+
+
+The Steemit community even has another service to offer to its customers. D.tube, which is considered to be very similar to YouTube, is Blockchain based and the users can realize the difference between the traditional video publishing websites and D.tube, as the amount of money earned is also displayed beside the post apart from likes shares and comments. The Steemit community is accused of posting plagiarize contents on their publishing website. The irony seems to be reaching highest levels when the original content doesn’t receive much appreciation and income than the copied versions of it.""",https://steem.com/,365,78,0.012,-22.0013,,394951699.0
+
+groestlcoin,grs,Groestlcoin,Groestl,['Privacy Coins'],"What is Groestlcoin?
+
+
+
+Groestlcoin is a proof of work cryptocurrency created in 2014. Designed for everyday use, Groestlcoin features an average block time of one minute, as opposed to Bitcoin's ten. As a consequence, it has a maximum total supply that will cap out at 105 million coins, as opposed to the 21 million for Bitcoin. The main idea of creating Groestlcoin was to establish an electronic payment model that was purely based on mathematical proof. It uses the proof of work system (POW) to facilitate secure online money transactions. This is a system that is independent of influence from centralized authorities.
+
+
+
+How does it work?
+
+
+
+Groestlcoin is mined using the Groestl algorithm. Groestl was chosen as one of the five finalists of the NIST hash function competition. It uses the same S-box as AES in a custom construction. The cryptocurrency operates as open source software on a peer-to-peer model (transactions take place directly between the payer and payee). This means that no trusted intermediary such a bank or PayPal is required to verify the details of the sender and receiver. Rather, the transactions are verified by nodes (the network of computers/users spread globally) and recorded in an open ledger.
+
+
+
+What does it aim to solve?
+
+
+
+With a shorter block period than Bitcoin, Groestlcoin aims to be more functional for everyday payments. Merchants don’t need to wait 10 minutes to confirm whether or not they have received their payment. The reduction in hashrate intensity also gave Groestlcoin an opportunity to be mined by individuals with less computing power. However, companies and teams have created ASICs for Groestlcoin, albeit at a higher cost than creating ASICs for Bitcoin. Rather than just a simple fork, Groestlcoin also works to adopt developments and additions inspired from discussions surrounding the Bitcoin network, and was actually one of the first adopters to several key features such as Segregated Witness (SegWit) and the Lightning Network.",http://www.groestlcoin.com/,598,79,0.0,-10.23407,105000000.0,79423758.8873662
+
+osmosis,osmo,Osmosis,,"['Cosmos Ecosystem', 'Decentralized Exchange Token (DEX)', 'Automated Market Maker (AMM)', 'Decentralized Finance (DeFi)']","Token of the Osmosis Hub, first DEX for IBC connected coins built on the Cosmos SDK",https://osmosis.zone/,55,80,0.263,-7.18862,325000000.0,295615054.0
+
+beam,beam,BEAM,Beam Hash,"['Cryptocurrency', 'Privacy Coins']","Beam Mimblewimble is a scalable, fungible, and confidential cryptocurrency based on the Mimblewimble implementation.
+
+
+
+WHY BEAM?
+
+Core features include complete control over your privacy, All transactions are private by default, No addresses or other private information are stored on the blockchain, Superior scalability due to compact blockchain size, Opt-in Auditability, Support online and offline transactions, atomic swap, hardware wallets integration.
+
+
+
+Governance model
+
+No premine, No ICO. Backed by Treasury 
+
+Establishing a non-profit foundation to govern the protocol after Mainnet launch
+
+
+
+
+
+How does it work?
+
+Wallets’ owners create new transaction using secure channel either online or offline
+
+Both wallets participate in signing the transaction using Schnorr protocol
+
+
+
+Wallet sends transaction to node
+
+Each transaction contains a list of Inputs and Outputs represented by Pedersen Commitments, as well as explicit fees and kernels. Each transaction also contains non-interactive zero knowledge range proof to verify that the output transaction value is positive
+
+
+
+Transaction is verified by the node
+
+Each transaction is verified with respect to the recent blockchain state which is stored as a Merkle Tree. The root hash of the tree is recorded in block header along with a proof of work. In addition, each node periodically creates compacted history to allow ‘fast sync’ of new and existing nodes.
+
+
+
+Transaction is added to the mining pool
+
+A block is mined every minute and is sent back to the node for verification and distribution.
+
+
+
+Mined blocks containing the new transactions are sent to the known peers
+
+A valid block that is extending the longest chain is accepted as a new Tip and propagated further until full consensus is reached.
+
+
+
+Fast sync
+
+When a new node connects to the network for the first time it can request compacted history containing only system state and blockchain headers. There is no need to retrieve the entire transaction history.",https://www.beam.mw/,667,81,0.007,-25.03696,262800000.0,107707560.0
+
+syscoin,sys,Syscoin,SHA-256,['Masternodes'],"Syscoin offers fast, low-cost tokens, assets, and (fractional) NFT’s secured by Bitcoin’s own hash power, decentralized consensus model, and censorship resistance. Backed by 2700 independent full nodes which participate in Syscoin’s decentralized network at present, all of which archive and validate. Together they form the high-throughput relay network used by Syscoin’s Z-DAG Protocol (patent pending). The platform offers the option of a permissioned L2 smart contract feature, Syscoin Notary, which is useful for regulatory compliance at scale, and much more. Its ambitious roadmap aims to define the next generation of decentralized ledger tech, leveraging Zero-Knowledge Proofs to provide the best characteristics of Bitcoin and Ethereum in a coordinated and scalable Web 3.0 platform. Syscoin has official partnerships with Binance, Blockchain Foundry, Klever, TrustToken, Komodo, Decentralized Identity Foundation (DIF), Microsoft Azure, International Token Standardization Association (ITSA), and more.",http://syscoin.org/,153,82,0.028,-26.36864,888000000.0,633248654.292268
+
+stratis,strax,Stratis,X13,['Smart Contract Platform'],"Stratis is a powerful and flexible Blockchain Development Platform designed for the needs of the real world financial services businesses and other organisations that want to develop, test and deploy apps on the blockchain. Stratis significantly simplifies the development process for creating Blockchain applications and accelerates the lifecycle for Blockchain development projects. Stratis private chain allows businesses to deploy their own customise blockchain without the costs of running their own blockchain network infrastructure.
+
+
+
+The vision of the Stratis platform is to become a one-stop shop for all blockchain things, mostly becoming a blockchain-as-a-service (BAAS) platform. Technology-wise, it is a clone of Bitcoin’s core code, with a few enhanced features and written in C# language instead of C++.
+
+
+
+The team is based in the United Kingdom but has a decentralized structure with members spreading across the world. Several people on their management team are well-versed in enterprise software development using .NET and C# – a positive sign considering those are the project’s two primary languages. Chris Trew, the founder and CEO, has over 10 years of experience in enterprise IT and was a volunteer developer for the Blitz project. Stratis is competing against other BaaS projects in an increasingly saturated but gigantic space. Lisk may be the largest direct competitor in offering sidechains for businesses. However, <a href=""https://www.coingecko.com/en/coins/lisk"">Lisk</a> is written in Javascript (not C#) and has sidechains that are more publicly available. The decreased privacy may be a turnoff to corporations looking to keep their code proprietary. The company held an ICO in June 2016 and manage to raised 915 <a href=""https://www.coingecko.com/en/coins/bitcoin"">Bitcoin</a>.",http://stratisplatform.com/,343,83,0.009,-19.93151,128057426.0,133809093.406014
+
+beefy-finance,bifi,Beefy.Finance,,"[None, 'Celo Ecosystem', 'Arbitrum Ecosystem', 'Harmony Ecosystem', 'Fantom Ecosystem', 'Polygon Ecosystem', 'Avalanche Ecosystem', 'HECO Chain Ecosystem', 'Decentralized Finance (DeFi)', 'Yield Aggregator', 'Binance Smart Chain Ecosystem']","$BIFI tokens are ‘dividend-eligible’ revenue shares in Beefy Finance, through which holders earn profits generated by Beefy Finance and are entitled to vote on important platform decisions. 
+
+
+
+Beefy Finance is a Decentralized Finance (DeFi) Yield Optimizer platform that allows its users to earn compound interest on their holdings.
+
+
+
+DeFi applications are unique in the sense that they are permissionless and trustless, meaning that anyone with a supported wallet can interact with them without the need for a trusted middleman.
+
+
+
+Through a set of investment strategies secured and enforced by smart contracts, Beefy Finance automatically maximizes the user rewards from various liquidity pools (LPs),‌ ‌automated market making (AMM) projects,‌ ‌and‌ ‌other yield‌ farming ‌opportunities in the DeFi ecosystem. 
+
+
+
+For all the vaults deployed on every blockchain, Beefy Finance has its native governance token $BIFI at its core. Platform revenue is generated from a small percentage of all the vault profits and distributed back to those who stake $BIFI. 
+
+
+
+Beefy Finance is a supported partner of Binance’s official decentralized wallet, Trust Wallet, and audited by Certik to guarantee the robustness of deployed smart contracts. Certik has already provided audits for such projects as Ocean Protocol, NEO, Ontology, and Waves.
+
+
+
+The supply of $BIFI is limited at 80,000 tokens and available on the top decentralized exchanges such as Binance, 1inchexchange and PancakeSwap. 
+
+
+
+What is $BIFI?
+
+
+
+$BIFI is the native governance token of Beefy Finance. $BIFI Tokens can be staked on the Beefy platform to gain rewards and interest. A portion of the fees paid by anyone using Beefy’s yield optimization vaults are distributed to holders of $BIFI staked on the platform. Token holders also have a right to create and vote on proposals to the platform as part of its governance system. They can vote without un-staking their tokens. 
+
+
+
+What makes Beefy Finance unique?
+
+
+
+There are lots of farms to choose from across several blockchains. Beefy automates and optimizes different investment strategies, allowing token holders to benefit from the upside of complex farming protocols. Users can request new vaults directly from Beefy’s developers and the time it takes to answer these requests is very low.
+
+
+
+What are yield farming and yield optimization?
+
+
+
+Yield farming is simply a way to make some interest with crypto holdings. A yield optimizer is an automated service that seeks to gain the maximum possible return on crypto-investments made through DeFi platforms. They work much more efficiently than attempting to maximize yield through manual means. Each yield optimization method on Beefy Finance has its own unique strategy for farming, which normally involves the reinvestment of crypto assets staked in liquidity pools. At the most simple level, it farms the rewards given from staked assets and reinvests them back into the liquidity pool for the user.
+
+
+
+What are Beefy vaults?
+
+
+
+Vaults are investment instruments that employ an optimized set of strategies for yield farming. They make use of automation to continually invest and reinvest deposited funds, which help to achieve high levels of compounded interest. Vaults are the core of the Beefy Finance ecosystem. In a Beefy vault, you earn more of the asset you stake, regardless of whether it’s a liquidity pool (LP) token or a single asset.
+
+
+
+Despite what the name 'vault' suggests, user funds are never locked on Beefy.Finance. Users can withdraw from a vault at any moment in time and Beefy does not own the funds staked in its vaults.
+
+
+
+What fees are incurred from using Beefy Finance?
+
+
+
+The performance fees are already built into the displayed APY of each vault and daily rate. Most vaults available on Beefy Finance take 4.5% of harvest rewards. 
+
+The performance fee on users vault profits is largely distributed back to $BIFI stakers and is the main source of Beefy Finance's platform revenue: 3% is distributed back to $BIFI stakers, 0.5% is allocated to treasury, 0.5% to the strategist that developed the vault and 0.5% for the one calling the harvest function. 
+
+
+
+Each vault has either a deposit or withdrawal fee of 0.1% or less, which is there to protect bad actors from abusing the vaults. This is shared with all other stakers in that specific vault. Users should also consider network transaction fees when adding or removing funds. These fees do not go to Beefy, but to the operators keeping the blockchain network up and running.
+
+",https://beefy.finance/,306,84,0.295,82.1933,80000.0,78000.0
+
+kyber-network-crystal,knc,Kyber Network Crystal,,"['Avalanche Ecosystem', 'Polygon Ecosystem', 'Fantom Ecosystem', 'Automated Market Maker (AMM)', 'Binance Smart Chain Ecosystem']","What Is Kyber Network (KNC)?
+
+Kyber Network is a hub of liquidity protocols that aggregates liquidity from various sources to provide secure and instant transactions on any decentralized application (DApp). The main goal of Kyber Network is to enable DeFi DApps, decentralized exchanges (DEXs) and other users easy access to liquidity pools that provide the best rates.
+
+All transactions on Kyber are on-chain, which means they can be easily verified using any Ethereum block explorer. Projects can build on top of Kyber to utilize all the services offered by the protocol, such as the instant settlement of tokens, liquidity aggregation, and a customizable business model.
+
+Kyber looks to solve the liquidity issue in the decentralized finance (DeFi) industry by allowing developers to build products and services without having to worry about liquidity for different needs. 
+
+The Kyber Network Crystal (KNC) token is a utility token that is the ""glue that connects different stakeholders in Kyber's ecosystem."" KNC holders can stake their tokens in the KyberDAO to help govern the platform and vote on important proposals — and earn staking rewards in Ethereum (ETH) that come from trading fees. 
+
+What Makes Kyber Network Unique?
+
+Kyber Network is the first tool that allows anyone to instantly swap tokens without the need of a third-party, like a centralized exchange. The unique architecture of Kyber is designed to be developer-friendly, which enables the protocol to be easily integrated with apps and other blockchain-based protocols.
+
+DeFi has many use cases and possibilities. Therefore, no single liquidity protocol can fit the needs of all liquidity providers, takers, and other market participants. Kyber’s liquidity hub architecture allows developers and the Kyber team to rapidly innovate and integrate new protocols into the overall Kyber Network to cater to different liquidity needs.
+
+In April 2021, Kyber launched the Kyber DMM, the world’s first dynamic market maker protocol (DMM). Kyber DMM is a next-generation AMM designed to react to market conditions to optimise fees, maximise earnings, and enable extremely high capital efficiency for liquidity providers, especially for stable pairs with low variability in price range (like USDC/USDT, ETH/SETH). They will be able to support pools with extremely high amplification factors, which means given the same liquidity pool and trade size, slippage can be 100x (or more) better than typical AMMs. Depending on their amplification strategy, liquidity providers can maximise the use of their capital and have the opportunity to earn much more fees relative to their contribution size, while takers can enjoy extremely low slippage on their trades.
+
+Kyber DMM is the first of many new liquidity protocols that will be launched on the Kyber 3.0 Liquidity Hub.
+
+In the Kyber ecosystem, KNC token holders play an important role in deciding new growth and value-capture opportunities and incentive mechanisms. Through KyberDAO, KNC holders can participate in the governance of the network by voting on important proposals. Kyber’s community is sizable and made up of a wide range of developers, in addition to other members of the blossoming DeFi industry.
+
+Kyber’s fully on-chain design enables the protocol to maintain full transparency and verifiability. The platform claims to be the most used liquidity hub in the world.
+
+How Is the Kyber Network Secured?
+
+As an ERC-20 token, Kyber is built on top of and secured by the Ethereum blockchain. In addition, Kyber uses an extensive trust and security model that protects users from misbehaving administrators or exchanges, thanks to security measures built in both at the protocol and smart contract level.
+
+The platform has been audited by several third-party security firms and researchers, including Chainsecurity, which have determined that the protocol is secure and hence free of vulnerabilities.",https://kyber.network/,291,85,0.02,32.2333,191613219.751766,102522603.24294408
+
+origin-protocol,ogn,Origin Protocol,,"['Business Platform', 'Non-Fungible Tokens (NFT)']","Origin Protocol provides a platform for building peer-to-peer marketplaces and e-commerce applications. Users can buy or sell goods and services on these marketplaces, and developers can create their own applications powered by the Origin blockchain. The Origin token (“OGN”) is used as an incentive, payment, and governance token in the Origin ecosystem.
+
+",http://www.originprotocol.com,334,86,0.025,-29.38757,1000000000.0,416955188.0
+
+steem-dollars,sbd,Steem Dollars,SHA-256,[],Steem Dollars are liquid stable-value currency tokens designed to be pegged to $1 USD. Steem Dollars can be traded with STEEM and transferred to other accounts for commerce or exchange.,https://steem.com/,612,87,0.012,-9.10555,,10545218.179
+
+blockstack,stx,Stacks,,"['Infrastructure', 'Smart Contract Platform']","Stacks brings Apps and Smart Contracts to Bitcoin. Apps built on Stacks inherit all of Bitcoin’s powers. They run their logic on the blockchain with smart contracts, are controlled by code instead of companies, and are accessible to anyone. This enables decentralized apps to do things that regular apps can’t.",http://stacks.co/,74,88,0.055,-31.44071,1352464600.0,1052561461.68777
+
+gxchain,gxc,GXChain,Delegated Proof-of-Stake,['Big Data'],"From the developers at Gongxinbao (GXB) comes GXChain, a public blockchain that offers decentralized data exchange solutions, being the first exchange of its kind in the world. The GXS data exchange does not cache personal data, offering its customers privacy. In addition, the exchange protects data copyright, preventing data fraud and counterfeiting and supports bilateral anonymous transactions. The GXS data exchange, which was commercialized on September 24, 2017, can be used for data exchanging in any industry. Currently, the platform offers solutions for enterprises that engage in network loan, automobile finance, personal loan in internet finance and banks.
+
+
+
+GXChain is a blockchain that supports the development of a great number of applications. Unlike other public chains, GXChain does not only support smart contract or blockchain as a service (BaaS) but also delivers many exclusive services, such as ID verification, multi-dimensional data, KYC, and swift login. GXChain currently has 100,000 TPS, which can support most business applications, and it also supports issuing new assets. The second application based on GXChain, GXB Decentralized App (Dapp), deals with personal credit management and face to face credit verification. GXChain employs delegate proof of stake (DPoS) for record tracking on the blockchain and proof of credit share (PoCS) for data exchange consensus.
+
+
+
+Minqiang Huang is the Founder and CEO, having more than 10 years of experience in data exchange, blockchain, and financial technology. He first became interested in cryptocurrency back in 2012, and since then he started several projects in this market. He was the former CTO at Hakim Unique Internet Co Ltd, and Director of financial services of HAKIM UNIQUE. He received his bachelor degree in computer science at Shandong University of Science and Technology, and his master in management at Hong Kong Finance and Economics College. Guojun Tu is the Co-founder and Vice President, and is a serial entrepreneur, having over 21 years of experience in the field of information security, financial transactions, and computer science. Guojun activated as a senior executive at 3 public traded IT company. He received his bachelor degree in computer science at Hunan University.",https://www.gxb.io/,376,89,0.004,-26.45575,100000000.0,75000000.0
+
+siacoin,sc,Siacoin,Blake2b,"['Near Protocol Ecosystem', 'Storage']","Sia is a <a href=""https://www.coingecko.com/en/coins/all?category_id=34"">decentralized cloud storage platform</a> similar in concept to Dropbox and other centralized storage provider where instead of renting storage space from a centralized entity, clients rent storage space from other peers. The only difference is Sia uses blockchain to facilitate transactions Nodes provide storage to clients using the Sia blockchain as contracts. Before storing the data, the data is encrypted into many pieces and uploaded to different hosts. 
+
+
+
+Siacoin is created by David Vorick and Luke Champine of Nebulous Inc. As the traditional storage platforms are higher in cost, more expensive and data is not well protected. Siacoin promises to offer secured storage transactions with smart contracts which is more affordable and reliable. Moreover, it is completely open source which means many individuals have contributed to Siacoin’s software hence there will be an active community building innovative applications on top if the Sia API. 
+
+
+
+In 2018, Siacoin aims to introduce file sharing and be the go-to cloud storage platform for companies. Their goal is divided into 3 time frames which are short-term, medium-term and long-term development. Short-term development focuses on file sharing between Sia users. This allows Sia users to share files in the platform without having to take it off the cloud while increasing network utilization. Medium-term development’s goal is to enhance partnerships. This means reaching out to large companies like Netflix and Dropbox to hopefully be able to be their storage and distribution framework. Lastly, long-term development aims to expand its horizon to share files with non-Sia users and support mobile wallets. ",https://sia.tech/,146,90,0.028,-23.06521,,50159565000.0
+
+ergo,erg,Ergo,,"['Cryptocurrency', 'Smart Contract Platform', 'Privacy Coins', None]","Ergo is a flexible blockchain protocol. Ergo is designed for developing decentralized applications with the main focus of providing an efficient, secure and easy way to implement financial contracts. To achieve  this  goal, Ergo includes various technical and economic improvements to existing blockchain solutions. Every coin in Ergo is protected by  a program in Ergo Script, which is a powerful and protocol-friendly scripting language based on Σ-protocols. Using ErgoScript, users can encode the conditions under which coins may be used: who can spend them, when, under what external conditions, to whom, and so on. Extended support for light nodes makes Ergo friendly for end users because it allows running contracts on untrusted commodity hardware.To be usable in the long-term, Ergo follows a survivability approach – it uses widely-researched solutions that do not result in security issues in the future, while also preventing performance degradation over time with a new economic model. Finally, Ergo has a self-amendable protocol that allows it to absorb new ideas and improve itself in the future.",https://ergoplatform.org/en/,315,91,0.018,-20.93718,97739924.0,50499765.0
+
+celo,celo,Celo,,['Celo Ecosystem'],"Celo enables participation on the Platform, with the opportunity to earn rewards through network participation. Celo’s stability mechanism and token economics are designed in such a way that demand for cGLD directly increases as demand for Celo Dollars (cUSD) and other stable value assets increases.
+
+
+
+cGLD is a native cryptographic digital asset created at the mainnet release of the Celo Platform. cGLD has no relationship to physical gold.
+
+
+
+cGLD is a utility and governance asset required to participate on the Celo Platform. Some uses include:
+
+
+
+Running a validator to secure and operate aspects of the Celo Platform
+
+Voting for validators working to secure and operate the Celo Platform
+
+Participating in governance decisions to influence the future of the Celo Platform
+
+Supporting applications on the platform
+
+cGLD forms part of the overcollateralized reserve that supports the Celo stable value assets (initially Celo Dollar or cUSD).
+
+
+
+The Celo Protocol automatically adds cGLD to the reserve whenever the Celo stable value asset supply increases.",https://celo.org/,85,92,0.069,-37.87577,1000000000.0,407486151.0
+
+band-protocol,band,Band Protocol,,"['Cosmos Ecosystem', 'Polygon Ecosystem', 'Near Protocol Ecosystem', 'Business Services', 'Decentralized Finance (DeFi)', 'Oracle']",,https://bandprotocol.com/,299,93,0.009,-22.2786,100000000.0,41591943.0
+
+orchid-protocol,oxt,Orchid Protocol,,['xDAI Ecosystem'],"The Orchid Protocol organizes bandwidth sellers into a structured peer-to-peer (P2P) network termed the Orchid Market. Customers connect to the Orchid Market and pay bandwidth sellers in order to form a proxy chain to a specific resource on the Internet.
+
+
+
+Unlike more common methods for sending and receiving data from the global Internet, proxy chains in the Orchid Market naturally separate information about the source of data from information about its destination; no single relay or proxy holds both pieces of information, or knows the identity of someone who does. The structure of the Orchid Market further supports this separation of information by providing strong resistance against collusion attacks – the ability of a group of bandwidth sellers to overcome this separation of knowledge.
+
+
+
+The Internet was originally an open platform where people could freely learn and communicate. Unfortunately, as the Internet grew it became a place where people could be monitored, controlled, and censored. We're building a new civil contract around a distributed marketplace for computation, storage, and bandwidth to provide the framework for a new form of digital citizenship.
+
+",https://www.orchid.com/,341,94,0.013,-22.11893,1000000000.0,591544728.9516798
+
+yearn-finance,yfi,yearn.finance,,"['Fantom Ecosystem', 'Arbitrum Ecosystem', 'Avalanche Ecosystem', 'Polygon Ecosystem', 'xDAI Ecosystem', 'Yearn Ecosystem', 'Yield Aggregator', 'Yield Farming', 'Governance', 'Decentralized Finance (DeFi)']","Yearn Finance is a suite of products in Decentralized Finance (DeFi) that provides lending aggregation, yield generation, and insurance on the Ethereum blockchain. The protocol is maintained by various independent developers and is governed by YFI holders.
+
+
+
+It started out as a passion project by Andre Cronje to automate the process of switching capital between lending platforms in search of the best yield offered, as the lending yield is a floating rate rather than fixed rate. Funds are shifted between dYdX, AAVE, and Compound automatically as interest rates change between these protocols. 
+
+
+
+The service offered includes major USD tokens such as DAI, USDT, USDC, and TUSD. For example, if a user deposits DAI into yearn.finance, the user will receive yDAI token in return, which is a yield-bearing DAI token. 
+
+
+
+Later on, it collaborated with Curve Finance to release a yield-bearing USD tokens pool that includes four y-tokens: yDAI, yUSDT, yUSDC and yTUSD, it is named as yUSD. 
+
+
+
+Yearn Finance debuted the vault feature after its token launch, igniting a frenzy on automated yield farming and is considered the initiator of the category of yield farming aggregator. Basically, the vault will help users to claim yield farming rewards and sell it for the underlying assets. 
+
+
+
+Vaults benefit users by socializing gas costs, automating the yield generation and rebalancing process, and automatically shifting capital as opportunities arise. End users also do not need to have proficient knowledge of the underlying protocols involved or DeFi, thus the Vaults represent a passive-investing strategy. It is akin to a crypto hedge fund where the aim is to increase the amount of assets that users deposited.
+
+
+
+
+
+
+
+",https://yearn.finance,112,95,0.104,-30.73332,36666.0,35692.624968711796
+
+kava,kava,Kava,,"['Cosmos Ecosystem', 'Lending/Borrowing', 'Finance / Banking', 'Decentralized Finance (DeFi)']","Kava is a cross-chain DeFi Hub for decentralized financial services and applications. The Kava DeFi Hub operates like a decentralized bank for digital assets connecting users with products like stablecoins, loans, and interest-bearing accounts so that they can do more and earn more with their digital assets.
+
+",https://www.kava.io/,154,96,0.048,-32.61568,160219991.0,152765684.0
+
+digibyte,dgb,DigiByte,Multiple Algorithms,"['Internet of Things (IOT)', 'Artificial Intelligence', 'Cryptocurrency', 'Smart Contract Platform', 'Privacy Coins']","What is DigiByte?
+
+DigiByte is more than a faster digital currency. It is an innovative blockchain that can be used for digital assets, smart contracts, decentralized applications and secure authentication.
+
+
+
+
+
+What makes DigiByte stronger than others?
+
+DigiByte is a rapidly growing open-source blockchain created in late 2013 and released in early 2014. After 6 years of forward thinking development, DigiByte has become one of the safest, fastest, longest and most decentralized UTXO blockchain in existence.
+
+
+
+
+
+Truly Decentralized.
+
+DigiByte has never been funded through an ICO or significant amount of premined coins. There is no CEO or a company controlling the DigiByte blockchain. It is a volunteer based and global community driven project.
+
+
+
+
+
+More secure.
+
+DigiByte uses 5 cryptographic algorithms and real time difficulty adjustment to prevent malicious mining centralization and hash power fluctuation. One of which is Odocrypt that changes itself every 10 days for ASIC resistance.
+
+
+
+
+
+Much faster.
+
+DigiByte blocks occur every 15 seconds which is 40x faster than Bitcoin and 10x faster than Litecoin. Early SegWit implementation and blockchain rigidity enable up to 1066 on-chain transactions per second with negligible fees.
+
+
+
+
+
+Forward thinking.
+
+Over the past 6 years, DigiByte has repeatedly set itself apart with multiple blockchain firsts, such asDigiShield guard, MultiAlgo mining, SegWit implementation, Odocrypt algorithm, Dandelion++ privacy protocol, DigiAssets and Digi-ID.
+
+
+
+ 
+
+ 
+
+
+
+This is how the DigiByte blockchain works.
+
+The three layers are the most innovative parts of the DigiByte blockchain providing the network infrastructure, security and communications to function with cutting edge speed.
+
+ 
+
+
+
+Applications / DigiAssets.
+
+The top layer is like an app store with clear real-world uses. All types of digital assets can be created with the DigiAssets protocol on top of the DigiByte blockchain. Decentralized applications (dApps) can be built on top of the DigiByte blockchain. Also smart contracts that leverage the rigidity and security of the DigiByte blockchain can be encoded easily.
+
+
+
+
+
+Digital asset / Public ledger.
+
+The middle layer provides security and administration. A Digital Byte of data, a representation of larger data or a unit that holds value, and cannot be counterfeited, duplicated or hacked. An immutable public ledger where all transactions of DigiBytes are recorded. DigiByte uses five proof of work algorithms for security. New DigiBytes come from mining only.
+
+
+
+
+
+Core protocol / Global network.
+
+The bottom layer provides communication and operating procedures. A very low-level way nodes on the DigiByte global network communicate. Thousands of people are running DigiByte software all across the planet. Any server, computer, tablet or mobile phone connected to the DigiByte network becomes a node that helps relay transactions.
+
+
+
+ 
+
+Open source / Permissionless.
+
+Just like the DigiByte.io website, the DigiByte blockchain is completely open source and free to use released under the MIT license, which gives you the power to run and modify the software. Transparency allows for independent verification of binaries and their corresponding source code.
+
+
+
+ 
+
+
+
+ 
+
+
+
+A digital currency you would absolutely love.
+
+DigiByte (DGB) is a highly scalable peer-to-peer digital currency that enables industry-leading transaction speeds with negligible fees. DigiByte is the best way for payments.
+
+
+
+
+
+Easy to use.
+
+Getting started to use DigiByte is even easier than sending an SMS. You can send and receive DigiBytes using the devices you already know and love. All you need is installing a DigiByte supported wallet then click scan, scan the QR code and send DigiByte. As easy as 1..2..3.
+
+
+
+
+
+Not an ICO.
+
+DigiByte has never been funded through an ICO or significant amount of premined coins (0% remaining). There is no CEO or a company controlling the DigiByte blockchain. The founder, developers and the community are unpaid volunteers that eliminate the bankrupt risk.
+
+
+
+
+
+Much faster.
+
+DigiByte transactions are confirmed in approx. 15 seconds, which is 40 times faster than Bitcoin and 10 times faster than Litecoin. SegWit enables up to 1066 on-chain transactions per second and negligible fees make DigiByte the ideal currency for daily payments.
+
+
+
+ 
+
+Always secure.
+
+DigiByte has been built on the uncrackable technology of the Bitcoin blockchain and implemented various advanced enhancements over it such as DigiShield guard, MultiAlgo mining and the Odocrypt algorithm. Also Dandelion++ privacy protocol helps keep you safe by hiding your IP and physical location. Learn more.
+
+
+
+
+
+Mineable.
+
+DigiByte is a 100% Proof of Work (PoW) blockchain that can be mined with five algorithms called Sha256, Scrypt, Skein, Qubit and Odocrypt. MultiAlgo mining contributes to decentralization, security of the network and gives you the freedom to use different kind of hardware's such as an ASIC a FPGA or a GPU. Learn more.
+
+
+
+
+
+Manageable units
+
+Compared to 21 million Bitcoin, 21 billion DigiByte (1000:1 ratio to BTC) have been designed to be ready for mass adoption. DigiByte block rewards reduces by 1% every month instead of halving every 4 years. All 21 billion DigiByte will be mined by the year 2035. After 2035 the miners will then rely on transaction fees alone. Learn more.
+
+
+
+
+
+
+
+
+
+A simplified way to create digital assets.
+
+DigiAssets is a secure, scalable layer on top of the DigiByte blockchain that allows for the decentralized issuance of assets, tokens, smart contracts, digital identity and more.
+
+
+
+
+
+Limitless possibilities.
+
+DigiAssets can be used to securely represent anything we find in the physical world. From tangible assets such as real estate or cars, through to scarce digital pieces of art. Signed documents such as deeds and medical bills can be protected.
+
+
+
+
+
+Growing confidently.
+
+DigiAssets as an ecosystem and platform already has interested parties either planning on or currently building platforms in real estate, finance, remittance, identity, point of sale, racing, trade, healthcare, supply chain, government and more.
+
+
+
+
+
+Solid technology.
+
+DigiAssets leverages unique aspects of a truly decentralized blockchain only found within a permissionless blockchain like DigiByte. This allows DigiAssets to be more secure, scalable and decentralized than any other platform in the market.
+
+
+
+ 
+
+
+
+
+
+Authentication at its best.
+
+Digi-ID is a security protocol built on DigiByte blockchain technology that empowers users to effortlessly sign-in to websites, applications, and even into the internet of things.
+
+ 
+
+
+
+Easy authentication.
+
+Digi-ID eliminates the username, password and 2fa requirements for authentication. Because Digi-ID uses public / private key cryptography, there are no passwords or usernames at risk. This method not only protects the consumer, it also protects the services that the consumer uses.
+
+ 
+
+
+
+Flawless security.
+
+Digi-ID does not store any data about its users on the DigiByte blockchain. This further strengthens the security while also bolstering end-user’s confidence that their data is neither tracked nor at risk by others negligence. There is no external point of failure for an hacker to exploit your platform.
+
+
+
+
+
+Simple and free.
+
+Digi-ID is completely free! There are no fees, subscription services, or maintenance costs. But the cost is its second best feature. Its primary feature is that, in accordance with DigiBytes security prioritization, Digi-ID is a more secure, yet simple method available to log in to websites, apps and more.
+
+
+
+
+
+
+
+
+
+The most passionate community ever!
+
+Tens of thousands of volunteers from all over the world have contributed to DigiByte in countless ways for years to make it what it is today. It is a truly grassroots movement. We warmly welcome you to join us!
+
+
+
+
+
+DigiByte Foundation.
+
+The DigiByte Foundation is a volunteer managed organization that operates in a non-profit way. They protect and promote the true principles of decentralization and empower DigiByte and its community to establish and maintain a sustainable decentralized world.
+
+Learn more.
+
+ 
+
+
+
+DigiByte Awareness Team.
+
+
+
+DGBAT is a community-driven outreach initiative. They are led by a team, whose members in turn manage teams across social media, outreach, education, writers and developers. They aim to promote the DigiByte blockchain through education, outreach and marketing campaigns.
+
+Learn more.
+
+ 
+
+
+
+DigiByte Developers.
+
+
+
+Everyone that is working on the DigiByte blockchain is an unpaid volunteer who devoted their time and skills to a project they believe in. Start contributing to the DGB development today or build your own app on top of the DigiByte blockchain.
+
+DigiByte Protocol on GitHub.
+
+DigiByte Core Development on GitHub.
+
+
+
+
+
+The DigiByte Wiki.
+
+The DigiByte Wiki is an online encyclopedia built by the community, for the community. It contains useful and up to date data such as the DigiByte Ecosystem and how to guides. Anyone can positively contribute to the Wiki by creating a free user account and start adding or updating information on the DigiByte Wiki.
+
+
+
+ 
+
+Meet the creator of DigiByte.
+
+Jared Tate is the founder and creator of the DigiByte blockchain. Jared dedicated full-time development towards DigiByte since October 2013. He has been invited by MIT, Harvard and the US Capitol to speak on blockchain tech. He is also the author of the book Blockchain 2035 The Digital DNA of Internet 3.0, which is the first book written by a blockchain founder.",https://DigiByte.org,187,97,0.017,-18.14885,21000000000.0,15089426428.5609
+
+renbtc,renbtc,renBTC,,"['Wrapped-Tokens', 'Tokenized BTC', 'Decentralized Finance (DeFi)', 'Asset-backed Tokens']","REN Tokenized BTC
+
+
+
+Once an asset is in the custody of RenVM, an ERC20 token at a 1:1 value is minted on Ethereum - this can then be used as any ERC20 can within the Ethereum ecosystem (for example, swaps, collateralization, trades etc.)",https://renproject.io/,123,98,0.029,-2.59262,16278.00502624,16272.13939266
+
+curve-dao-token,crv,Curve DAO Token,,"['Arbitrum Ecosystem', 'xDAI Ecosystem', 'Polygon Ecosystem', 'Exchange-based Tokens', 'Decentralized Exchange Token (DEX)', 'Automated Market Maker (AMM)', 'Yield Farming', 'Governance', 'Decentralized Finance (DeFi)']","Similar to Uniswap, Curve Finance is an Automated Market Maker (AMM) based Decentralised Exchange (DEX). Unlike Uniswap, its main focus is only to swap between assets that are supposed to have the same value. This is useful in the DeFi ecosystem as there are plenty of wrapped tokens and synthetic tokens that aim to mimic the price of the real underlying asset. 
+
+
+
+For example, one of the biggest pools is 3CRV, which is a stablecoin pool consisting of DAI, USDT, and USDC. Their ratio in the pool will be based on the supply and demand of the market. Depositing a coin with a lesser ratio will yield the user a higher percentage of the pool. As such when the ratio is heavily tilted to one of the coins, it may serve as a good chance to arbitrage.
+
+
+
+Curve Finance also supports yield-bearing tokens. For example, it collaborated with Yearn Finance to release yUSD pools that consisted of yDAI, yUSDT, yUSDC and yTUSD. Users that participated in this pool will not only have yield from the underlying yield-bearing tokens, but also the swap fees generated by the Curve pool. Including the yield farming rewards in terms of CRV tokens, liquidity providers of the pool actually have three sources of yield. ",https://www.curve.fi/,91,99,0.241,-39.89786,1688638557.54652,391958099.3931446
+
+zelcash,flux,Flux,Equihash,"['Cryptocurrency', 'Masternodes', 'Privacy Coins']",,https://runonflux.io,186,100,0.085,-45.64285,440000000.0,226392004.749574
+
